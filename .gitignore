@@ -1,0 +1,13 @@
+mylifeismetal*.xml
+rewrite.*
+import.rb
+README
+public/js/soundmanager2/
+welovedc/images/
+welovedc/images-full/
+welovedc/welovedc.zip
+Gemfile.lock
+Gemfile
+.gems
+Rakefile
+config.ru

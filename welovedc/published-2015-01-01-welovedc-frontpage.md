@@ -1,6 +1,6 @@
 
-- [\*favorite posts\*](/tag/welovedc/favorite)
-- [Why I Love DC]()
+- [\*favorite posts\*](/tag/welovedc-fav)
+- [Why I Love DC](why-i-love-dc-martin)
 - [all WeLoveDC music reviews](/tag/welovemusic) (24 posts)
 - [all WeLoveDC show promos](/tag/hotticket) (16 posts)
 
