@@ -1,9 +1,11 @@
 ### How to get this running on Ghost
 
-* Zip all 'published-*.md' files and the 'images' folder into welovedc.zip
+* Zip all 'published-*.md' files into welovedc.zip
 * Upload that zip file using the beta 'batch upload' tool
+* Upload all images using `scp images/* root@metal-heart.org:/var/www/blog/content/images`
 * Tag all the articles with 'welovemusic' or 'hotticket'
 * Tag favorites with...something(?)
+
 
 ### Things I'm Still Workin On
 * CSS: 

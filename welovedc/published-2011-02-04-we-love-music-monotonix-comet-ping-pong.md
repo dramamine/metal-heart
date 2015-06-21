@@ -1,5 +1,5 @@
 We Love Music: Monotonix @ Comet Ping-Pong, 2/4/11
-![welovedc](/images/monotonix-at-comet-018_5419382287_o.jpg "Monotonix at Comet 018")
+![welovedc](/content/images/monotonix-at-comet-018_5419382287_o.jpg "Monotonix at Comet 018")
 All photos by author
 
 So this is what anarchy feels like.
@@ -12,18 +12,18 @@ When I arrived, I caught the tail end of Pujol’s set. However, instead of watc
 
 Rather than confining themselves to the “stage”, i.e. the back of the room, Monotonix pushed the audience aside and set up their drums in the center of the room. To open the set, they distracted us with some drums right before Ami started climbing the audience.
 
-![welovedc](/images/monotonix-at-comet-012_5419985838_o.jpg "Monotonix at Comet 012")
+![welovedc](/content/images/monotonix-at-comet-012_5419985838_o.jpg "Monotonix at Comet 012")
 
 And I mean, he just completely took over the whole room. He’d climb up to the rafters; he’d hand out pieces of the drum set to the audience; he’d crowdsurf to get around the room. It was impossible to predict where he’d go or what he’d do next. You couldn’t avoid getting involved in the chaos, as the whole crowd swayed back and forth through the night.
 
 It’s funny – earlier this week I caught Girl Talk, who also tried to re-create a house party vibe with his show, only with things like “ballons” and “hot jams”. But Monotonix’s party was more of the kind where too many people showed up, nobody’s really in control, and you’re always listening for police sirens in case you need to get out in a hurry. This was the kind where you can’t look the homeowner in the eye anymore, because you spilled beer all over his carpet. And I mean, is it even your fault? You weren’t the one who made “throwing beer” the popular activity for the night.
 
-![welovedc](/images/monotonix-at-comet-020_5419986582_o.jpg "Monotonix at Comet 020")
+![welovedc](/content/images/monotonix-at-comet-020_5419986582_o.jpg "Monotonix at Comet 020")
 
 During a fast, carefree rendition of “Body Language”, Ami climbed over to the soundboard, somehow managing to avoid damaging equipment as he jumped off the plywood table, into the crowd next to me. As I stood transfixed, I caught a strange intensity in his eyes – somewhere between passion and insanity. Someone rushed up to pour a pitcher of beer on his head, so I ducked away to avoid splash damage – as if I didn’t already stink of whiskey and stranger’s sweat.
 
 Before launching into their final song, Ami announced that this was the last show they would play in DC. (It sounds like they are going back to Israel to work on projects for awhile. Or to raise their kids.) I couldn’t imagine a better send-off. They’ve come a long way in their short career; I caught this band in early 2007, before they had really refined their live show. It was a bit frightening, because nobody really knew what Ami would do, and we in the audience just looked at each other in disbelief. Some people walked out; others got into it. At this show, I was never scared, just excited to be a part of this moment, to bond with other people who were as excited as I was about the ensuing chaos.
 
-![welovedc](/images/monotonix-at-comet-021_5419383171_o.jpg "Monotonix at Comet 021")
+![welovedc](/content/images/monotonix-at-comet-021_5419383171_o.jpg "Monotonix at Comet 021")
 
 As the band disappeared, and Ami wandered around giving people high-fives and sweaty hugs, the drumming continued. After a few minutes, I realized that the drummer was long gone – the only people playing drums were audience members! There were maybe six or seven people who had formed an impromptu drum circle, in all its tribal goodness. They played with volume and passion, with huge smiles on their faces. So, maybe Monotonix is drawing to a close. Ami didn’t say “Monotonix belongs to you now” because he didn’t have to. Everyone at the show already felt like a part of Monotonix – the actual instrument-playing was secondary. The band and the audience fed off each other’s energy, creating a bond that I rarely feel at live shows. I felt connected to the people around me, which is a nice change from my usual thoughts of “look at all these hipsters” or “can’t believe he’s wearing that band shirt, y’all”. More of this, please.

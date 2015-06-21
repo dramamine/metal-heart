@@ -1,12 +1,12 @@
 # We Love Music: Agalloch @ Sonar (Baltimore), 3/21/11
-![welovedc](/images/ag1_5551516431_o.jpg "ag1")
+![welovedc](/content/images/ag1_5551516431_o.jpg "ag1")
 All photos courtesy of [Agalloch](http://www.myspace.com/agalloch/photos/)
 
 On Monday, I drove up to Baltimore to check out [Agalloch](http://www.myspace.com/agalloch), rising stars in the American black metal scene. You know, I try to defend DC’s metal scene, but what does it mean when a [critically](http://pitchfork.com/reviews/albums/14920-marrow-of-the-spirit/) [acclaimed](http://www.npr.org/2010/12/02/131192147/first-listen-agalloch-marrow-of-the-spirit) band passes us by? Are we not metal enough for a band from Portland? Are our local venues discriminating against the longhairs?
 
 Anyway. I usually scoff at black metal as being too Satanic, too repetitive, or too grim – but Agalloch bring something unique to the genre, mixing in elements of folk (including acoustic and orchestral instruments), psych metal, and post-rock. It coalesces into something heavy and complex, something that rewards multiple listens. Despite some weak opening bands and a late set (running past 1am), I left the show sold on their vision for the future of black metal.
 
-![welovedc](/images/ag2_5551516445_o.jpg "ag2")
+![welovedc](/content/images/ag2_5551516445_o.jpg "ag2")
 
 About those openers: they just weren’t a good fit. I mean, you can classify Agalloch as “folk metal”, and I’d have a hard time arguing otherwise, considering all the acoustic guitars and nature sounds on their album. But Agalloch are truly metal, and their openers brought way too much folk. When I first arrived, [Aerial Ruin](http://www.aerialruin.com/) – just one guy with an acoustic guitar – was playing. It was dark music, sure, but I really wanted something with more energy. [Worm Ouroboros](http://www.myspace.com/wormouroboros) had me intrigued; they’re a trio with two women on guitar and bass. Their music was really solid, although formulaic; each song started with a dark, gothic folk-ballad style, which eventually morphed into something loud and distorted. The heavy parts were excellent, and I was impressed with how powerful they sounded for only a trio.* Still, I couldn’t help but imagine how sweet their set would’ve been with some anger behind the vocals – not even screaming or growling, necessarily, just something with more passion.
 
@@ -14,7 +14,7 @@ About those openers: they just weren’t a good fit. I mean, you can classify Ag
 
 There wasn’t much screaming after that instrumental track, either – and what little screaming we got, there wasn’t much passion behind it. It sounded like the singer was trying harder to protect his voice than emote. I was pretty disappointed. To end the set, each band member took one of the candles on stage and blew it out in unison. Well, almost unison; I think their guitarist was too mortified by this to get the timing right. So yeah, they were the lamest opening band I’ve seen since the last time I went to Sonar and caught an [all-too-serious historical metal band](http://pinnastorm.com/index.php/2010/11/03/unironic-historical-metal-ex-deo-sonar/).
 
-![welovedc](/images/ag4_5552102842_o.jpg "ag4")
+![welovedc](/content/images/ag4_5552102842_o.jpg "ag4")
 
 I instantly put these openers out of my mind when Agalloch opened their set with the first two tracks from their new album, “Marrow of the Spirit”. Great start for an album, great start for the set. You could read the looks on these guy’s faces, as the opening cellos faded – they were braced for impact, ready for an endurance challenge. Instantly, all the energy in the room transformed as the frantic drumming of “Into the Painted Grey” filled our ears.
 
@@ -24,7 +24,7 @@ As a band, they mostly focused their energy internally. Their guitarist liked to
 
 Going into the show, I only knew their latest album on [Profound Lore](http://www.profoundlorerecords.com/), one of today’s most exciting metal labels. The older songs they played were a bit harsher, but still had the same magic to them. During an ancient track, “Dead Winter Days”, I watched as dozens of fans screamed along with the lyrics – even the guitarist and bassist moved to the front of the stage to join the chorus. I’m digging through their old material now – maybe next time I’ll hold my own in the front row.
 
-![welovedc](/images/ag3_5552102836_o.jpg "ag3")
+![welovedc](/content/images/ag3_5552102836_o.jpg "ag3")
 
 * It turns out that Worm Ouroboros and Agalloch share a drummer. In Worm Ouroboros, I noticed how talented he was during the heavy parts – nothing too fast, just ultra-precise, passionate drumming in weird time signatures. Now I realize this was just to get him warmed up for Agalloch’s constant blast beats. I can’t even imagine how much skill and practice it takes to be able to drum like that for 90 minutes!
 

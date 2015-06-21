@@ -1,6 +1,6 @@
 # We Love Music: This Will Destroy You @ Rock and Roll Hotel, 6/5/11
 
-![welovedc](/images/this-will-destroy-you---press-photo_5810086770_o.jpg "This Will Destroy You - press photo")
+![welovedc](/content/images/this-will-destroy-you---press-photo_5810086770_o.jpg "This Will Destroy You - press photo")
 All photos courtesy of [This Will Destroy You](http://twdy.tumblr.com/)
 
 [This Will Destroy You](http://twdy.tumblr.com/) is one of my favorite groups in the post-rock scene right now. I feel like they’re creating music specifically for me. It has the pleasant, sometimes melancholy soft-loud dynamic of bands like [Mogwai](http://www.myspace.com/mogwai) or [Jakob](http://www.myspace.com/jakobmusic). Yet they’ve taken a turn for the dark side lately. Their new material is ominous, ambient, less guitar-oriented yet still just as destructive. It’s the kind of music you can lose yourself in.
@@ -13,7 +13,7 @@ The show felt a bit on the quiet side at first, although it picked up steam abou
 
 At one point, two band members were on their knees, tweaking knobs on the floor, shifting waves of feedback around in a meditative fashion. I liked how they would transition from one song to the next just by creating more noise. The melodies of each successive song were a welcome reprieve from all the feedback.
 
-![welovedc](/images/this-will-destroy-you---press-photo_5809590039_o.jpg "This Will Destroy You - press photo")
+![welovedc](/content/images/this-will-destroy-you---press-photo_5809590039_o.jpg "This Will Destroy You - press photo")
 
 I was really enjoying the show at this point! But the sound just wasn’t mixed right, to the point that it was a big distraction. Most of the time, I couldn’t tell if the feedback was purposeful or not – and if it was, it was just too much. One of the best parts about noisy shows is that, once you grow accustomed to the volume, you can safely ignore the drones and focus on some piece of hidden beauty behind the noise. But this works a little better when the music is crystal-clear. That night, it was just messy.
 

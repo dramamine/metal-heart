@@ -1,6 +1,6 @@
 # We Love Music: Das Racist @ Rock and Roll Hotel, 1/14/11
 
-![welovedc](/images/dr---shanghai4_5360402153_o.jpg "dr - shanghai4")
+![welovedc](/content/images/dr---shanghai4_5360402153_o.jpg "dr - shanghai4")
 Photo courtesy of Das Racist
 
 Das Racist went viral last year with their track “Combination Pizza Hut and Taco Bell“. It would be easy to write them off as a novelty act, but anyone who dug a little deeper would find a rap group spitting intelligent, unique, stream-of-consciousness verses that demand your full attention. Last year, they put out two mixtapes for free online, completely bypassing any sort of physical distribution. They’ve garnered praise from critics at Pitchfork and NYTimes. So, do they give away their music for free, just to promote their live show? I had this in mind when I went to Rock and Roll Hotel last Friday to check out their sold-out show. Unfortunately, their show didn’t impress me as much as their mixtapes have.
@@ -8,7 +8,7 @@ Das Racist went viral last year with their track “Combination Pizza Hut and Ta
 
 The opening groups, Fat Tony and Ardamus & The Metaphysical, were okay, but didn’t really get the crowd pumped. I felt like Ardamus put on a good show – he was enthusiastic, but the audience didn’t really connect with him. I actually enjoyed it more when DJ Metaphysical spun between the sets. After Fat Tony’s set, he played a pretty good set of dubstep – it was heavy on wobbly bass, and sounded great through Rock and Roll Hotel’s sound system. After Ardamus’ set, he played a mix of more popular tracks that were perfect for any dance party. He returned to Rock and Roll Hotel on Sunday to spin a full set upstairs.
 
-![welovedc](/images/dr---4930451804_c4513c0ba1_b_5361015580_o.jpg "dr - 4930451804_c4513c0ba1_b")
+![welovedc](/content/images/dr---4930451804_c4513c0ba1_b_5361015580_o.jpg "dr - 4930451804_c4513c0ba1_b")
 Photo courtesy of Das Racist
 
 I went to check out Das Racist’s live show expecting some grade-A banter between songs, and they delivered. The entire show felt like we were just hanging out with these stoners at a college party, watching them tell inside jokes to each other. Well, inside jokes that you’d get if you’ve been around the internet for long enough. It was like we were eavesdropping on them in their natural environment.

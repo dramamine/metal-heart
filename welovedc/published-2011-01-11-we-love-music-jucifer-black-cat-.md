@@ -1,5 +1,5 @@
 # We Love Music: Jucifer @ Black Cat 1/11/11
-![welovedc](/images/look-at-those-goddamn-speakers_5348534960_o.jpg "look at those goddamn speakers.")
+![welovedc](/content/images/look-at-those-goddamn-speakers_5348534960_o.jpg "look at those goddamn speakers.")
 all photos by author
 
 Something happened at Black Cat on Tuesday night that I was completely unprepared for.
@@ -12,7 +12,7 @@ Jucifer is just two folks – one dude on drums, one woman on guitar. Is it even
 
 Throughout the set, the band shifted between slow, drone riffs and frantic attacks. When the guitars were too drone-y for too long, all I wanted was for the band to break into something fast, something heavy that I could head-bang to. And I would get it, occasionally…but it was never enough.
 
-![welovedc](/images/fists-in-the-air_5347923681_o.jpg "fists in the air")
+![welovedc](/content/images/fists-in-the-air_5347923681_o.jpg "fists in the air")
 
 I’d look at their drummer, and he’d have one of two looks. One was a look of extreme pain, like it was taking every ounce of effort on his part to bang on these drums. He’d bang on the toms with his fists. He’d stand up and hit cymbals with two drumsticks in hand. He’d break into a fast riff, hitting his drums like a madman. His other look was a shit-eating grin, like he knew exactly what he was doing to us, like he couldn’t help but smile at the power he was delivering.
 

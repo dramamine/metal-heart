@@ -1,34 +1,34 @@
 # We Love Music: Darkest Hour @ 9:30 Club, 2/25/11
-![welovedc](/images/.jpg "Atticus Tour @ 9:30 Club")
+![welovedc](/content/images/.jpg "Atticus Tour @ 9:30 Club")
 [All photos by Erin McCann](http://www.flickr.com/photos/erin_m/sets/72157626154004786/with/5480726223/)
 
 How was your weekend? Mine started off with a bang – as soon as I got off work, I headed straight for the 9:30 Club to check out a handful of metal bands on the **Atticus Metal Tour**. This was an early show, running only until 9pm, since rockabilly queen [Wanda Jackson](http://www.wandajackson.com/) had a later show that night. So who shows up for a metal show at 5pm? High school kids. Drunk people. And me. I got my dose of metal that left me pumped for the rest of the weekend.
 
 DC’s own Darkest Hour headlined this tour, along with younger [metalcore](http://en.wikipedia.org/wiki/Metalcore) groups [Born of Osiris](http://www.myspace.com/bornofosiris), [As Blood Runs Black](http://www.myspace.com/asbloodrunsblack), and [The Human Abstract](http://www.myspace.com/thehumanabstract). Four bands in four hours meant the show moved at a brisk pace – it felt like every band could’ve played a few more tracks, especially the headliners. I enjoyed all of these bands, but with 15 years of experience under their belt, [Darkest Hour](http://darkesthour.info/) stole the show.
 
-![welovedc](/images/5480715969_210fe5e12a_o.jpg "Atticus Tour @ 9:30 Club")
+![welovedc](/content/images/5480715969_210fe5e12a_o.jpg "Atticus Tour @ 9:30 Club")
 **The Human Abstract:** I can tell that these guys are technically good at their instruments, but I wasn’t impressed with their songs. They just weren’t coherent – they tended to be all over the map with their style. For example, their track “[Digital Veil](http://www.metalunderground.com/news/details.cfm?newsid=65699)” was pretty awesome, but it felt like three distinct ideas that didn’t quite fit together; they switched between frantic, punk-ish parts, Meshuggah-like math metal, and straight prog-metal showing off their guitarist’s talent. I liked their guitarist with the [amazing dreads](http://www.flickr.com/photos/erin_m/5480716953/in/set-72157626154004786/)! Their frontman, not so much. I don’t like his 777 tattoo, something I wouldn’t understand if it weren’t for the [777s](http://en.wikipedia.org/wiki/777_%28number%29) all over Underoath’s set, but mostly I don’t like the way he kind of pranced around during the last song when he had nothing to sing. Pranced. Just throw some fists in the air or something!
 
-![welovedc](/images/5481319406_66cb59411d_o.jpg "Atticus Tour @ 9:30 Club")
+![welovedc](/content/images/5481319406_66cb59411d_o.jpg "Atticus Tour @ 9:30 Club")
 **As Blood Runs Black:** There was a lot to like about this band. They were really good performers – they kept our energy level up, and their [frontman](http://www.flickr.com/photos/erin_m/5480718431/in/set-72157626154004786/) was fun to watch. The music was solid, and I thought their breakdowns* were tasteful and super-heavy. But I didn’t like their use of sound effects! They had this one effect that sounded like someone farted into the mic. SO STUPID. Between songs, the singer chastised us for not moshing enough, and asked, “this is a metal show, right?!” Followed immediately by a sound effect like “Ye-ye-ye-ye-ye-ye-ye-YEEEAH!” It was a metal show until you did that, bro.
 
-![welovedc](/images/5480726223_0a4bb1193e_o.jpg "Atticus Tour @ 9:30 Club")
+![welovedc](/content/images/5480726223_0a4bb1193e_o.jpg "Atticus Tour @ 9:30 Club")
 
 **Born of Osiris:** Really impressed with these guys, who I had mostly written off from their Myspace songs. They played really tight [deathcore](http://en.wikipedia.org/wiki/Deathcore), with some nice guitar solos thrown in. “Abstract” was a great track. But their new single, “Follow the Signs”, lost me. Why are there keyboards in this song? Rhetorical question! They shouldn’t be in there. They completely distracted me from the crushing riffage! There’s this really awesome breakdown at the beginning that was working for me, then this lame 3-note arpeggio blasted over the speakers! Also, just because your keyboard has a “choir” sound doesn’t mean you need to use it. Their last song was great though. Most of the floor was a mosh pit – then they asked us to form a [Wall of Death](http://www.flickr.com/photos/erin_m/5480721019/in/set-72157626154004786/), which was kind of unnecessary with all the moshing already going on, but still fun to watch.
 
-![welovedc](/images/5480768119_7773c2b837_o.jpg "Atticus Tour @ 9:30 Club")
+![welovedc](/content/images/5480768119_7773c2b837_o.jpg "Atticus Tour @ 9:30 Club")
 
 Sorry if this comes off as mean! I enjoyed all of these band’s sets – I just want them to take their game to the next level. I like going to shows like this, with a handful of metal bands I don’t know very well, because I usually find something to appreciate about each of them. (It also helps when the sets are short.) But man, **Darkest Hour** blew these bands out of the water. Why? Well, it helps that they are veterans of the scene – you can’t make it as a band for 15 years unless you have something special. But the opening bands all felt like they were trying too hard to be heavy, to be loved. Personally, I get annoyed when bands do too much “mosh-pit cheerleading” – demanding circle-pits, yelling at everyone to get violent. Did Darkest Hour encourage moshing? No. They let their music take care of that.
 
 Plus, I felt like these openers were trying to mix genres of metal way more than necessary. They end up being mediocre at punk, grindcore, death metal,prog-metal and whatever other styles they’re trying. Now, I like it when a band can switch in and out of styles in a coherent manner. But Darkest Hour’s brand of metalcore is pure. You can parse it out into its hardcore punk elements – rapid drums with simple, constantly strummed guitar lines – and the metal flourishes, where the drums back off, and give the hot riffs some room to breathe. During their opening track “With a Thousand Words…”, my entire thought process was, “Whoa, this is LOUD! Listen to that double-bass! What’s happening…oh hey, there’s a guitar solo in my face!”
 
-![welovedc](/images/5480765705_a576e6233b_o.jpg "Atticus Tour @ 9:30 Club")
+![welovedc](/content/images/5480765705_a576e6233b_o.jpg "Atticus Tour @ 9:30 Club")
 
 Really, you don’t have to overthink it, because this ebb and flow keeps the entire song interesting. Is this formula too simple? I mean, metalcore’s been around for a decade, but to me, it still works. Maybe I like the simplicity of the punk attitude of their songs – like, everything sounds like their goal is to play through the song as fast as humanly possible. Plus, the songs are legitimately good; when they broke into “Sadist Nation”, a track I haven’t thought about in 8 years, it was still instantly recognizable to me. I liked their simple stage setup too. They left a ton of space for everyone in the band to run around the stage. Maybe I just liked it because there were no keyboards?
 
 So yeah, this was an early show, running from the opening riffs at 5:30, to Darkest Hour’s encore at 8:50. 8:50! What are all of us metalheads supposed to do with all this energy? It’s great that you’re making so much money off double-booking nights, 9:30 Club**, but I have a better idea for you. How about you just book 8 metal bands and charge us $10 more? If you’re worried this is too much metal for me, well, it isn’t.
 
-![welovedc](/images/5481367164_5bd03cbe9f_o.jpg "Atticus Tour @ 9:30 Club")
+![welovedc](/content/images/5481367164_5bd03cbe9f_o.jpg "Atticus Tour @ 9:30 Club")
 
 * A breakdown is like a bridge in pop music. It generally signals a good time to mosh, and is usually characterized by half-time drums and low, crunchy guitars.
 ** Just kidding! I still love you, 9:30 Club!

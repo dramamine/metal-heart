@@ -1,6 +1,6 @@
 # We Love Music: A Perfect Circle @ DAR Constitution Hall, 7/17/11
 
-![](/images/a-perfect-circle-1_5956155872_o.jpg "trees")
+![](/content/images/a-perfect-circle-1_5956155872_o.jpg "trees")
 All photos courtesy of [A Perfect Circle](https://aperfectcircle.com/)
 
 When I heard that [A Perfect Circle](https://aperfectcircle.com/) was coming to DAR Constitution Hall, I had a ton of questions. The band has been on hiatus for seven years; Maynard’s been working with Tool, Billy Howerdel formed Ashes Divide, and the other members ran off with Smashing Pumpkins, Marilyn Manson and Nine Inch Nails. Why reform the band? Do they still have ‘it’? Are they going to ruin my positive memories of the group? I’m pretty much required to go to this, having seen them and Tool every chance I’ve ever gotten, right?
@@ -8,13 +8,13 @@ When I heard that [A Perfect Circle](https://aperfectcircle.com/) was coming to 
 When the songs were right, the show was fantastic. These guys are actually capable of writing beautiful songs, with rich harmonies and epic crescendos that moved the entire audience. But their setlist was tragic. Out of their three studio albums, the setlist was weighted heavily towards 2004’s *Emotive*, a political album about the Iraq war that they rushed to release in time for the 2004 election. This isn’t just my opinion; it is objectively true that *Emotive* is no fan’s favorite album. It’s an album of cover songs! That means almost half of the show wasn’t even original A Perfect Circle material! That might be okay for a bar band, but not for a major group that’s selling out DAR. I can’t think of a show I’ve seen that defied fan’s hopes and expectations more than this one.
 
 
-![](/images/a-perfect-circle-4_5955594221_o.jpg "rawk out")
+![](/content/images/a-perfect-circle-4_5955594221_o.jpg "rawk out")
 
 I mean, at this point in my fandom, I have to acknowledge that Maynard James Keenan likes to fuck with his fans. From all the leaks of fake tracklistings for new albums, to [his joke band Puscifer](http://en.wikipedia.org/wiki/Puscifer), to his vineyard in Arizona, Maynard has to be the most enigmatic, least trustworthy frontmen out there. I understand what his music’s about, but I have no idea what *he’s* about. So to mess with us before A Perfect Circle’s set even started, Maynard chose a bizarre mix of showtunes as the vamp music – I guess he likes West Side Story? I also wonder how he chose the opening band, [Red Bacteria Vacuum](http://www.red-bacteria.com/). They were a kickass, all-female noise group from Japan; they had a ton of energy and let out some great screams, so no complaints from me!
 
 I thought the show had a lot of promise early on; after a slow opening (their cover of John Lennon’s “Imagine”, ugh), they ripped into “Weak and Powerless”, the first single from *Thirteenth Step*. I remembered when this track came out when I was in college; man, was I excited! I still knew every word to the song, and they delivered a great performance. The lighting was colorful, selectively illuminating their battlefield of a stage. (By ‘selectively illuminating’, I mean, they somehow managed never to shine light directly on Maynard. This wasn’t really surprising, as his modus operandi in his band Tool is to hide behind a curtain, revealing only his shadow.) Their next track “The Hollow” gave me chills; that track still sounds as fresh as when I played *Mer de Noms* for the first time, in my car driving home from Best Buy, and instantly knew I’d love this band.
 
-![](/images/a-perfect-circle-3_5956155906_o.jpg)
+![](/content/images/a-perfect-circle-3_5956155906_o.jpg)
 
 Oh, if only they’d kept up that energy level! The rest of [their setlist](http://www.setlist.fm/setlist/a-perfect-circle/2011/dar-constitution-hall-washington-dc-73d34269.html) alternated between their original songs that the fans love, and a bunch of covers that just drained the auditorium of any spark. Tracks from *Emotive* made up 10 songs – over half! – of their set. Now, I would argue that two of these would’ve been fine in the set: “Passive”, a track Maynard originally wrote for the abandoned Tapeworm project, was a strong anthem; “Counting Bodies” had one of the best audience reactions of the night, with some cool strobe effects and booming bass. And at least a few of the covers – “Annihilation” and “Gimme Gimme Gimme”, were re-worked enough that they sounded fresh. They used vocal melodies instead of the chanting monotone on the album. They still weren’t good songs, though. Even the people who stood up in their seats, headbanged, and lost control of their arms in a fit of fan-dom wound up taking time during the cover songs to hit the beer line, or just sit and rest their legs.
 
