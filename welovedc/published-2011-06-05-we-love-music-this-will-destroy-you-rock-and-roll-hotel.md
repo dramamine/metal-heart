@@ -1,0 +1,27 @@
+# We Love Music: This Will Destroy You @ Rock and Roll Hotel, 6/5/11
+
+![welovedc](/images/this-will-destroy-you---press-photo_5810086770_o.jpg "This Will Destroy You - press photo")
+All photos courtesy of [This Will Destroy You](http://twdy.tumblr.com/)
+
+[This Will Destroy You](http://twdy.tumblr.com/) is one of my favorite groups in the post-rock scene right now. I feel like they’re creating music specifically for me. It has the pleasant, sometimes melancholy soft-loud dynamic of bands like [Mogwai](http://www.myspace.com/mogwai) or [Jakob](http://www.myspace.com/jakobmusic). Yet they’ve taken a turn for the dark side lately. Their new material is ominous, ambient, less guitar-oriented yet still just as destructive. It’s the kind of music you can lose yourself in.
+
+There were a couple great moments at their show at the Rock and Roll Hotel this Sunday, where I could feel the full power of their noise assault. But the show just wasn’t mixed right. For an instrumental rock band, nothing is more important than the sound; I was left underwhelmed. This was pretty disappointing, considering [their show last year at DC9](http://www.welovedc.com/2010/06/14/we-love-music-this-will-destory-you-dc9-61010/) was one of my favorites of the year, and I love the material they’ve written since then.
+
+The openers were interesting, and a pretty good fit for this kind of show. [John LaMonica](http://johnlamonica.com/) cranked out dark electro on his laptop, sounding like [DJ /rupture](http://www.myspace.com/deejayrupture) at times and [HEALTH](http://www.healthnoise.com/) at others. The sawblade attack of his bass got some heads nodding, but few people danced. [The Nighty Night](http://nightynightband.blogspot.com/) were a freaky band, to say the least. Their sound was dark and countrified, with strings and guitars crafting a harmonic layer to back up their singer’s ranting vocals. The singer reminded me of Modest Mouse in style, if not in content. I mean, lines like “make cologne of your blood” drew me in. But the lyrics were inane, and they got a bit cheesy after awhile – when he told us about how blood was for spilling a few songs later, I had lost interest.
+
+The show felt a bit on the quiet side at first, although it picked up steam about halfway through their organ-heavy opener, “Little Smoke”. I could feel my clothes vibrating with the bass, for awhile. I even enjoyed the way they incorporated a fiddle player, which served as a pleasant counterpoint to all the guitar noise. Their next track “Communal Blood” (god, these bands love blood) sounded much better than on album – more visceral, more punishing. The drummer was going crazy through the marching band beats of the track. This guy would hammer on toms with his bare hands; he would slam maracas against cymbals. Yet he could also play subtly, just enough to keep the slow, glacial tempo going during the less visceral sections.
+
+At one point, two band members were on their knees, tweaking knobs on the floor, shifting waves of feedback around in a meditative fashion. I liked how they would transition from one song to the next just by creating more noise. The melodies of each successive song were a welcome reprieve from all the feedback.
+
+![welovedc](/images/this-will-destroy-you---press-photo_5809590039_o.jpg "This Will Destroy You - press photo")
+
+I was really enjoying the show at this point! But the sound just wasn’t mixed right, to the point that it was a big distraction. Most of the time, I couldn’t tell if the feedback was purposeful or not – and if it was, it was just too much. One of the best parts about noisy shows is that, once you grow accustomed to the volume, you can safely ignore the drones and focus on some piece of hidden beauty behind the noise. But this works a little better when the music is crystal-clear. That night, it was just messy.
+
+The worst part came during their epic, debut-album-closing track, “There Are Some Remedies Worse Than The Disease”. It ends with this epic soft-loud buildup, with a gentle guitar melody plucking away while the drums get louder and more frantic, then the song cracks and the whole band plays at full volume. Only, this time, the epic crescendo was actually quieter than the buildup! The guitars immediately felt washed out, and oh man, it was so disappointing. I could distinctly remember hearing this song at DC9, and enjoying the catharsis that came afterward, as the track abruptly fades into ambient noise. This was nowhere near my first experience.
+
+Their encore was weird – their guitarist tried to introduce the band and thank us through the mic, but I guess the sound engineer fell asleep and didn’t turn the mic on for him. Throughout the song, there was a small amount of smoke coming out of one of their amps, or maybe from the lighting? Who knows. Anyway, the gig was a disappointment, for reasons beyond the band’s control. I know these guys have it in them to put on a great show, so I hope things go more smoothly for them on the rest of their tour.
+
+### One thought on “We Love Music: This Will Destroy You @ Rock and Roll Hotel, 6/5/11”
+
+###### Reuben on June 8, 2011 at 5:17 pm said:
+    Agreed. The sound was terrible. Seemed like they knew it, too.

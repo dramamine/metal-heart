@@ -1,0 +1,22 @@
+# We Love Music: Fucked Up @ Rock and Roll Hotel, 6/27/11
+
+![welovedc](/images/5882724079_b3eef5c574_o.jpg)
+All photos by [Rachel Rasby](http://www.flickr.com/photos/64609421@N07/sets/72157627076951874/)
+
+The smell of Cocoa Puffs crushed underfoot. Silhouettes of back-hair illuminated by a spotlight. Clouds of sweat puffing around the stage. Most of my memories of [Fucked Up’s](http://lookingforgold.blogspot.com/) performance on Monday night at the [Rock and Roll Hotel](http://www.rockandrollhoteldc.com/) aren’t particularly pleasant. But who likes their shows ‘pleasant’ anyway? Yeah, it was kind of a sweaty mess at the front of the stage – a crowd five fans deep, jumping relentlessly up and down throughout the set. But Fucked Up supplied an undeniably, infectiously energetic soundtrack for us to go wild to.
+
+Leading by example, Fucked Up’s Damian Abraham rushed on stage and proceeded to rip open a huge bag of store-brand Cocoa Puffs all over the audience. Okay, consider my attention grabbed. Damian was one of those frontmen that’s always doing something to keep your attention, whether he’s spinning his mic around by its cord, leaning into the crowd to yell about the Crusades, or just stomping around on stage. I enjoyed the show from start to finish; I can see why their live shows have gotten them so much buzz. They made the mostly-full Rock and Roll Hotel feel like a summer festival.
+
+![welovedc](/images/5882689421_b98a39555d_o.jpg)
+
+“This one goes out to anyone who’s overweight,” Damian said to introduce “I Hate Summer”, an anthem about how it sucks when you have to go to the beach and all these skinny, tan assholes make fun of you. Not that he seemed to mind taking his shirt off – he left his on for exactly one song. At its core, this song is about having a good time, and being comfortable enough with yourself to do so. This pretty much set the tone for the night.
+
+I felt like Damian was our party-master for the evening. He wrapped the mic chord around his face and continued screaming. He broke open a pack of Oreos and fed them to audience members. Fans would rub his sweat-drenched belly, for good luck. He shot himself point-blank in the forehead with a water pistol, causing water to ricochet into the crowd. He apologized for creating a Warped-Tour-like atmosphere as he poured bottles of water all over the crowd. (And we needed it – it was hot and sweaty in the front half of the venue!) He made sure to be completely inclusive, to reach out to all of us and touch us. Literally. Twice he climbed into the crowd, wandering around even to the edges of the bar, to give out hugs and high-fives to everyone. After the show, he stuck around to make sure everyone who wanted a sweaty hug, or a goofy picture, got one.
+
+![welovedc](/images/5882730637_bfba0ddf24_o.jpg)
+
+For me, the standout tracks were a couple of old tunes like “Two Snakes” and “Black Albino Bones”, which have darker riffs to go with their chanting choruses. They played a handful of solid tracks off the new album, like the instantly singable “The Other Shoe” and their album opener “Queen of Hearts”. In light of their performance, I find it kind of ridiculous that their latest album is a sprawling “concept album”, based around some tale of destruction and redemption. It seems to me they were at their best when keeping their song concepts uncomplicated – like in “I Hate Summer”, or “Crusades”, which, as Damian explained, is about the Crusades.
+
+The band itself was a quirky collection of Vancouverites. During their warmup I thought their drummer was the preppiest roadie I’d ever seen! Their short-haired guitarists were similarly preppy. I was completely wrong in expecting their bassist/backup singer Sandy Miranda to be covered in tattoos. So this seemed like a strange group – how on Earth did they connect with Damian? Who knows. In a throwback to 70s punk, Damian encouraged us all to start our own bands, saying that the only problem was finding the time. “Clearly, I’m proof that you don’t need talent to make minimum-wage as a musician.” Fucked Up weren’t like any punk band I’ve seen before – their show was full of positive vibes and fun times – yet it was punk to the core. It was, we’re going to have a good time tonight, and fuck what you think if you’re not coming along for the journey.
+
+![welovedc](/images/5883291548_342450ca36_o.jpg)
