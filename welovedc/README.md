@@ -20,3 +20,8 @@
 - put in dummy image tags: ![welovedc](/images/.jpg "")
 - drop in the image file names
 - update links and formatting
+
+
+# Pictures to Fix
+- all Glassjaw need to be downloaded
+- Darkest Hour too

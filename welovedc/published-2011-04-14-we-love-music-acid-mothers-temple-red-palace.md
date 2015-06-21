@@ -1,6 +1,6 @@
 # We Love Music: Acid Mothers Temple @ Red Palace, 4/14/11
 
-![](/content/images/acid1_5628307295_o.jpg "acid1")
+![](/content/images/acid1_5628307295_o.gif "acid1")
 [All photos courtesy of Acid Mothers Temple](http://www.myspace.com/acidmotherstemple/photos/)
 
 On Thursday night, I cruised down to the [Red Palace](http://redpalacedc.com/) to catch an offbeat show. When I first heard about a self-described “guitar freak-out” psychedelic rock collective from Japan, named [Acid Mothers Temple](http://www.acidmothers.com/), I knew they’d be up my alley. I love noisy bands that can bring a ton of energy to a venue. I love going to shows that push the boundaries of music, that are truly an experience unlike any other.

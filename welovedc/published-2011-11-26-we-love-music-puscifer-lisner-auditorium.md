@@ -1,11 +1,12 @@
-![welovedc](/content/content/images/puscifer_desert_6424881867_o.jpg "Puscifer")
+# We Love Music: Puscifer @ Lisner Auditorium, 11/26/11
+![welovedc](/content/images/puscifer_desert_6424881867_o.jpg "Puscifer")
 All images courtesy of [Puscifer](https://store.puscifer.com/)
 
 Are you a [Tool](http://toolband.com) fan? How about [A Perfect Circle](link to that APC review of mine)? Well, I hope you skipped your chance to see their front-man Maynard James Keenan on Saturday night. Maynard brought his solo project [Puscifer](https://store.puscifer.com/) to the Lisner Auditorium for what was supposedly a large production – part multimedia experience, part cabaret. The entire show fell far short of the high bar he set with his other bands. The whole performance wasn’t engaging; the humor seemed to be aimed at 15-year-olds.
 
 Maynard describes Puscifer as a “sketchpad of ideas”, which is an apt description of this collection of half-baked thoughts. This is Maynard unfiltered! I actually enjoy some of their music, for those rare moments where I could just rock out and enjoy the songs; but the entire content of the show was a waste of potential. The whole performance struck me as more sarcastic than passionate. Maynard didn’t even seem to be having a good time; it’s like the whole band were just going through the motions of performing. I go to concerts all the time and watch bands desperate to have their voices heard, desperate to connect with the audience somehow. So I found it a bit insulting for Maynard to think that the detritus of his creativity was enough to sell to us at $45 a ticket.
 
-![welovedc](/content/content/images/l_6424881897_o.jpg "Puscifer logo")
+![welovedc](/content/images/l_6424881897_o.jpg "Puscifer logo")
 
 To start the show, we saw a video of Maynard-as-drill-sergeant telling us not to take any photos or videos of the show, and having us shout “vagina” in unison. To follow this, Maynard dragged a trailer on-stage, then explained to us what Puscifer was about – something about “being creative with each breath we take”. He proceeded to set up some Ikea furniture around the stage, as if we were all just hanging out around a campfire in the Arizona desert. I’ll admit that Maynard created a low-pressure environment for himself, where he could relax and let out whatever came to his mind. There’s no pressure around a campfire in the company of friends, or the company of your die-hard fans who will appreciate every track you release into this world.
 
@@ -17,7 +18,7 @@ But the entire Puscifer experience made me wonder if those messages were real, o
 
 The same thing happened later in the show when two screens on the side of the stage depicted a billboard announcing “Welcome to Arizona Bay” against a flooded Grand Canyon. A reference to “Aenema”, of course, a track excoriating all of Los Angeles for its shallowness; Maynard desperately asking Mom to clean up this failure of human civilization. Do you know how much I’ve fixated on the lyric “don’t just call me pessimist / try and read between the lines”? That song was a wish for something better, recognizing that we as a species could reach a higher plane of existence. But what does it mean in the context of Puscifer? It’s a billboard. It’s like Maynard is saying, “nah, I just thought of a funny joke, that if L.A. fell into the ocean it would be called Arizona Bay. GET IT?” Like that was the only message he had to deliver. Now as I’m standing, watching Puscifer, trying to read between the lines, I realize it’s futile. There’s no message behind this at all.
 
-![welovedc](/content/content/images/puscifer_volume_6424881827_o.jpg "puscifer_volume")
+![welovedc](/content/images/puscifer_volume_6424881827_o.jpg "puscifer_volume")
 
 The track “Man Overboard” was one of the better songs of the night, mainly because it was heavy and anthemic. The band are clearly professionals, delivering a clean (if not passionate) performance. But the visuals for the song were nothing remarkable – all they did was play the [music video](http://www.funisforassholes.com/2011/09/puscifer-man-overboard.html) for the track. It looked like they paid an animation studio rock-bottom prices to make a video showing the Puscifer alien and some ninjas running around a pirate ship. Totally meaningless – just a neon distraction. And during the lyric “turn it up to eleven”, a ninja literally _turns a volume knob up to eleven_. It’s little things like this that annoyed me, where the band could’ve been creative but seemed content to just throw something together and call it a day.
 

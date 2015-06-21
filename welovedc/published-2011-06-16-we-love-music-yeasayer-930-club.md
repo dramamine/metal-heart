@@ -1,6 +1,6 @@
 # We Love Music: Yeasayer @ 9:30 Club, 6/16/2011
 
-![welovedc](/content/images/yeasayer-930-club-6162011-2_5849707409_o.jpg "'author'. that's me.")
+![welovedc](/content/images/yeasayer-930-club-6162011-2_5849707409_o.jpg "I AM AUTHOR")
 All photos by author
 
 It’s been a year since [Yeasayer](http://www.yeasayer.net/) last visited the 930 Club, in promotion of their latest album Odd Blood. Since then, word spread about their solid live show, and tickets for Thursday night’s show sold out months in advance. They came to DC as part of a short tour to [road-test some new songs](http://www.pitchfork.com/news/42808-video-yeasayer-play-new-songs-live/) for their next album – another batch of funky, 80s-pop-influenced tracks with catchy melodies and weird instrumentation. Also new: their fantastic lighting setup, involving huge LCD displays that illuminated the entire club.
