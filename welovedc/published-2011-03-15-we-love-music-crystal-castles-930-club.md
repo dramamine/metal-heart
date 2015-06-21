@@ -25,10 +25,9 @@ I found the whole show to be completely hypnotic, between the constant assault o
 
 Their encore matched the beginning of their set – a few songs with few vocals, plus nothing but strobe lights blasting. This would’ve been a fine ending, and I thought the show was over, but the band came out for one last track – a downtuned, extended version of “Untrust Us,” which was absolutely epic. It must’ve been the loudest track of the night, swelling to a wall of noise with their drummer pounding away, desperately trying to be heard over the static. This was the first Crystal Castles song I ever heard, so to me, it was the perfect way to end the night.
 
-#### 2 thoughts on “We Love Music: Crystal Castles @ 9:30 Club, 3/15/11”
-
-#### Ben Kessler on March 18, 2011 at 12:17 pm said:
+##### COMMENTS
+###### Ben Kessler on March 18, 2011 at 12:17 pm said:
     Just to be clear, would you describe the show as having been hypnotic?
 
-#### Martin Silbiger on March 18, 2011 at 4:43 pm said:
+###### Martin Silbiger on March 18, 2011 at 4:43 pm said:
     Completely.

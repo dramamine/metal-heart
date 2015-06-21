@@ -29,7 +29,6 @@ Going into the show, I only knew their latest album on [Profound Lore](http://ww
 * It turns out that Worm Ouroboros and Agalloch share a drummer. In Worm Ouroboros, I noticed how talented he was during the heavy parts – nothing too fast, just ultra-precise, passionate drumming in weird time signatures. Now I realize this was just to get him warmed up for Agalloch’s constant blast beats. I can’t even imagine how much skill and practice it takes to be able to drum like that for 90 minutes!
 
 
-#### One thought on “We Love Music: Agalloch @ Sonar (Baltimore), 3/21/11”
-
-#### Chris on March 25, 2011 at 8:27 pm said:
+##### COMMENTS
+###### Chris on March 25, 2011 at 8:27 pm said:
     I was there that evening. I have to say, it was one of the best concerts I attended. Part of this comes from a bias towards Agalloch (and Vindensang). The latter band is really why I am choosing to comment, however, as I do not particularly agree that they should be deemed one of the worst opening bands. I’d agree that their set wasn’t perfect, but part of this is probably due in part to very little stage experience. They are definitely much more of a recording band, so I would recommend listening to their current album. The flow makes much more sense and the repetitive droning makes much more sense. If that was the first time you heard their music though, I guess I could understand why it was lacking for you.

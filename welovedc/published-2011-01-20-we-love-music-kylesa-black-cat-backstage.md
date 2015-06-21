@@ -1,12 +1,12 @@
 # We Love Music: Kylesa @ Black Cat Backstage, 1/20/11
 ![welovedc](/content/images/5381572077_b0aafdbabe_o.jpg "IMG_6982")
-All photos by Michael Darpino
+All photos by [Michael Darpino](http://www.flickr.com/photos/45474216@N06/sets/72157625890285814/)
 
-Obviously, last week in DC’s music scene was all about Dismemberment Plan. Except for on Thursday night when a hundred or so dedicated metal fans packed the backstage at Black Cat, oblivious to any legendary reunions, for one of metal’s best new bands. Kylesa brought a set full of huge metal anthems that would’ve been large enough to entertain a festival-sized crowd.
+Obviously, last week in DC’s music scene was all about Dismemberment Plan. Except for on Thursday night when a hundred or so dedicated metal fans packed the backstage at Black Cat, oblivious to any legendary reunions, for one of metal’s best new bands. [Kylesa](http://kylesa.com/) brought a set full of huge metal anthems that would’ve been large enough to entertain a festival-sized crowd.
 
 Kylesa are one of the bands at the forefront of a new style of “sludge metal” that’s emerging from the South. Sludge metal takes elements from doom metal that were once too grim and frostbitten for the average listener, and adds the styling of psychedelic rock to create something more fun and exciting. You get dark, brooding riffs cranked up loud combined with bright melodies and screaming lyrics instead of demonic growls. Also, everything is played faster – fast enough that only the truly talented can crank out the riffs with such speed. Bands like Baroness, Black Tusk, and Mastodon have been doing this for awhile, but Kylesa has perfected the craft over their ten-year career.
 
-I arrived at the show in time to catch Zoroaster, who I was already psyched about due to their roots in the Georgia sludge metal scene. Their first song was their worst and I was close to writing them off, but later in their set I got sucked into their spiraling riffs and slightly evil vocals. They reminded me a lot of the stoner metal group Sleep, as each track was an epic jam saturated with waves of bass.
+I arrived at the show in time to catch [Zoroaster](http://zoroasterrocks.com/), who I was already psyched about due to their roots in the Georgia sludge metal scene. Their first song was their worst and I was close to writing them off, but later in their set I got sucked into their spiraling riffs and slightly evil vocals. They reminded me a lot of the stoner metal group Sleep, as each track was an epic jam saturated with waves of bass.
 
 ![welovedc](/content/images/5381559169_eb9ed8c636_o.jpg "IMG_6963")
 
@@ -22,16 +22,17 @@ Kylesa’s uses a two-drummer setup and that meant that the entire set was satur
 
 ![welovedc](/content/images/5381585079_bcf3dfb5b7_o.jpg "IMG_7008")
 
-Kylesa encored with a track that was pure psych-metal – a cover of Pink Floyd’s “Set the Controls for the Heart of the Sun” – slow and brooding, seemingly building up to something huge. I was totally ready to headbang for a minute or two, but instead, Kylesa gave us a quick dose of the heavy stuff that was over in under a minute. I simultaneously love and hate endings like this, the kind that leave me wanting more.
+Kylesa encored with a track that was pure psych-metal – a cover of Pink Floyd’s [“Set the Controls for the Heart of the Sun”](http://www.youtube.com/watch?v=AvSHexRlNvo) – slow and brooding, seemingly building up to something huge. I was totally ready to headbang for a minute or two, but instead, Kylesa gave us a quick dose of the heavy stuff that was over in under a minute. I simultaneously love and hate endings like this, the kind that leave me wanting more.
 
 ![welovedc](/content/images/5381583583_b9e25e66d5_o.jpg "IMG_7007")
 
-Overall, I felt like what Kylesa are doing belongs at a huge festival. It was weird seeing them in a packed, small venue like the Black Cat Backstage. Their jams are crafted well, with enough elements to appeal to a wide variety of fans of heavy music. As I looked around, I could see a couple guys really getting into the music, rocking out with body parts flailing. But no mosh pits ever broke out or anything. Throughout the set, I would watch the singer go back and drum for awhile, and I wanted to do the same – I wanted to rock out with this band, but there just wasn’t enough room. So when’s the stadium tour, guys?
+Overall, I felt like what [Kylesa](http://kylesa.com/) are doing belongs at a huge festival. It was weird seeing them in a packed, small venue like the Black Cat Backstage. Their jams are crafted well, with enough elements to appeal to a wide variety of fans of heavy music. As I looked around, I could see a couple guys really getting into the music, rocking out with body parts flailing. But no mosh pits ever broke out or anything. Throughout the set, I would watch the singer go back and drum for awhile, and I wanted to do the same – I wanted to rock out with this band, but there just wasn’t enough room. So when’s the stadium tour, guys?
 
 ![welovedc](/content/images/5381556361_e9c9018506_o.jpg "IMG_6960")
 
-#### Ben on January 24, 2011 at 7:17 pm said:
+##### COMMENTS
+###### Ben on January 24, 2011 at 7:17 pm said:
     Excellent photos...again!
 
-### Melody Koons on April 23, 2011 at 8:43 pm said:
+###### Melody Koons on April 23, 2011 at 8:43 pm said:
     Some truly prime blog posts on this web site , saved to fav.

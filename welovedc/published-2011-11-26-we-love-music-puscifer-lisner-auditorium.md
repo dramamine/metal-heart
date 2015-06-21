@@ -26,9 +26,7 @@ At the end of the show, Maynard announced with pride that his band was completel
 ##### This entry was posted in: We Love Music 
 ##### Tagged alternative rock, Lisner, Music, puscifer, tool
 
-### 3 thoughts on “We Love Music: Puscifer @ Lisner Auditorium, 11/26/11”
-
-
+##### COMMENTS
 ###### DA on December 7, 2011 at 6:19 pm said:
     Thank you for pointing out the 11 on the volume- The video has been around for a while on youtube and it was cheesy, and weak that it was animated so literally.
 

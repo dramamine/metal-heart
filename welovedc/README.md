@@ -1,7 +1,7 @@
 ### How to get this running on Ghost
 
-* Zip all 'published-*.md' files into welovedc.zip
-* Upload that zip file using the beta 'batch upload' tool
+* Zip published files using `zip welovedc.zip published*we-love-music*.md`
+* Upload that zip file using the Labs->Import tool
 * Upload all images using `scp images/* root@metal-heart.org:/var/www/blog/content/images`
 * Tag all the articles with 'welovemusic' or 'hotticket'
 * Tag favorites with...something(?)

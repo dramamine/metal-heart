@@ -1,6 +1,6 @@
 # We Love Music: Girl Talk @ 9:30 Club, 2/1/11
 ![welovedc](/content/images/5410595508_924024d28f_o.jpg "IMG_2392.jpg")
-All photos by Andrew Markowitz
+All photos by [Andrew Markowitz](http://www.flickr.com/photos/amphotography21/sets/72157625835286943/with/5410595826/)
 
 If you’re looking for a good dance party, you can’t do much better than Girl Talk.
 
@@ -16,7 +16,7 @@ I barely noticed him throughout the night, besides when he would jump on top of 
 
 ![welovedc](/content/images/5410595464_cbd9475316_o.jpg "IMG_2364.jpg")
 
-My favorite mash-up of the night was “Get It Get It” from his new album All Day – the Aphex Twin track sounded great with all its electro-goodness, and it offered a slight change from the hip-hop beats and indie-rock guitars we heard most of the night. He also brought some new material – I especially liked his mix of Kanye West’s “Runaway”, with its sparse pianos, with Biggie’s “Juicy”. Again, the pianos were a relief from the norm.
+My favorite mash-up of the night was “Get It Get It” from his new album [All Day](http://www.fastcompany.com/1707948/girl-talk-all-day-infographic#self) – the Aphex Twin track sounded great with all its electro-goodness, and it offered a slight change from the hip-hop beats and indie-rock guitars we heard most of the night. He also brought some new material – I especially liked his mix of Kanye West’s “Runaway”, with its sparse pianos, with Biggie’s “Juicy”. Again, the pianos were a relief from the norm.
 
 ![welovedc](/content/images/5410595826_5d681d63c2_o.jpg "IMG_2522.jpg")
 
@@ -30,11 +30,13 @@ But people came for a non-stop house party, and that’s what they got. It’s i
 
 ** I wasn’t the only one – I caught one of the on-stage dancers taking a break from dancing to text her friends! Lame.
 
-### Comments
+##### This entry was posted in: Entertainment, Music, We Love Music 
+##### Tagged 9:30 Club, Girl Talk, Gregg Gillis
 
-#### DCandBeyond on February 4, 2011 at 1:31 pm said:
+##### COMMENTS
+###### DCandBeyond on February 4, 2011 at 1:31 pm said:
     “How about mashing up something besides rap verses and pop beats, just for a little while?”
     Um, because that is what he does. Typical of a critic to ask the performer to do something that he never proclaimed to do. You knew what you signed up for. The show was incredible.
 
-#### Stephanie on February 4, 2011 at 2:37 pm said:
+###### Stephanie on February 4, 2011 at 2:37 pm said:
     I saw him at the Black Cat 2 or 3 years ago and this sounds the same except no confetti or major lights at black cat.

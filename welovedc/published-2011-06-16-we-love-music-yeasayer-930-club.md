@@ -17,7 +17,7 @@ The set mostly consisted of material from their latest album Odd Blood, but they
 
 One of the reasons I was drawn to the band in the first place is because they seemed inclined to experiment with their sound, using strange instrumentation to bring interest to songs with a classic pop structure. I thought the show put together a cohesive setlist, highlighting their experimental tracks, as well as hipster summer dance tracks like “Ambling Alps”. Their albums seem a bit uneven, but the band chose their setlist well, and I’m sure tracks like Devil and the Deed will become staples of their future sets.
 
-### One thought on “We Love Music: Yeasayer @ 9:30 Club, 6/16/2011”
+##### COMMENTS
 
 ###### all the cat things on June 20, 2011 at 1:52 pm said:
     was it funky?

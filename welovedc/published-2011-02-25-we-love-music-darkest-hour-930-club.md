@@ -33,7 +33,6 @@ So yeah, this was an early show, running from the opening riffs at 5:30, to Dark
 * A breakdown is like a bridge in pop music. It generally signals a good time to mosh, and is usually characterized by half-time drums and low, crunchy guitars.
 ** Just kidding! I still love you, 9:30 Club!
 
-#### One thought on “We Love Music: Darkest Hour @ 9:30 Club, 2/25/11”
-
-#### john smith on March 2, 2011 at 3:00 pm said:
+##### COMMENTS
+###### john smith on March 2, 2011 at 3:00 pm said:
     Wow are you serious? do you know anything about metal. who cares if boo has a keyboardists. it fits in with the songs. and its called abstract art, not abstract. and then the human abstracts new songs totally fit together. the singer was just having fun up there. and the wall of death wasnt unnecessary, its a great way to get the crowd going. i think before you do another one of these reviews, actually learn about music.

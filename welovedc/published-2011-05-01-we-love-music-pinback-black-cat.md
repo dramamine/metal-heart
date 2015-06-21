@@ -29,7 +29,6 @@ The set had a lot of deeper cuts from their self-titled album and Blue Screen Li
 
 ![welovedc](/content/images/5681929611_e3df50b015_o.jpg "Pinback @BlackCatDC-20")
 
-### 1 thoughts on “We Love Music: Pinback @ Black Cat, 5/1/11”
-
+##### COMMENTS
 ###### Chatty Pat on May 5, 2011 at 5:02 pm said:
     Cloud visualizations would have been so awesome to see. It would have been like you are outside while you are inside. Or it would be like we were in the future where there is no sky anymore, because we blew up the moon (searching for water) and the moon dust settled on the o-zone lair covering the entire planet and all we have left is a two minute footage reel of clouds moving by. I just bought Violin Hero too. We should play.

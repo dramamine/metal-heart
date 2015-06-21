@@ -48,10 +48,9 @@ But as much as I wanted to hate these guys, I couldn’t. They were legitimately
 ##### This entry was posted in: Entertainment, Music, We Love Music 
 ##### Tagged 9:30 Club, black hair dye, emo, heavy, hugs, loud, post-hardcore, thursday, underoath
 
-### 2 thoughts on “We Love Music: Thursday & Underoath @ 9:30 Club, 2/22/11”
-
-#### David on February 25, 2011 at 12:39 pm said:
+##### COMMENTS
+###### David on February 25, 2011 at 12:39 pm said:
     Perfect description of the wholenight. I disagree with your views on the new song and the second half of Full Collapse though as ‘wind up’ is one of my favorite Thursday songs.
 
-#### Mark on February 25, 2011 at 1:00 pm said:
+###### Mark on February 25, 2011 at 1:00 pm said:
     “Understanding in a car crash” & “Autobiography of a nation”

@@ -22,8 +22,7 @@ I’m fully aware that it’s cliche to complain about a band only playing their
 
 
 
-### 7 thoughts on “We Love Music: A Perfect Circle @ DAR Constitution Hall, 7/17/11”
-
+##### COMMENTS
 ###### Amanda on July 20, 2011 at 11:41 am said:
     Thank you! Most of their fans can’t seem to admit how disappointed they actually were.
     

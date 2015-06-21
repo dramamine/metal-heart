@@ -21,7 +21,6 @@ The worst part came during their epic, debut-album-closing track, “There Are S
 
 Their encore was weird – their guitarist tried to introduce the band and thank us through the mic, but I guess the sound engineer fell asleep and didn’t turn the mic on for him. Throughout the song, there was a small amount of smoke coming out of one of their amps, or maybe from the lighting? Who knows. Anyway, the gig was a disappointment, for reasons beyond the band’s control. I know these guys have it in them to put on a great show, so I hope things go more smoothly for them on the rest of their tour.
 
-### One thought on “We Love Music: This Will Destroy You @ Rock and Roll Hotel, 6/5/11”
-
+##### COMMENTS
 ###### Reuben on June 8, 2011 at 5:17 pm said:
     Agreed. The sound was terrible. Seemed like they knew it, too.

@@ -39,7 +39,6 @@ Just a couple suggestions! Really, you guys are great performers, so I don’t k
 
 Click here for the full set of concert pictures.
 
-### Comments
-
-#### Michael Darpino on February 8, 2011 at 3:56 pm said:
+##### COMMENTS
+###### Michael Darpino on February 8, 2011 at 3:56 pm said:
     I’ll forgive them a weak encore. Their main set was fantastic. These guys really bring the party!
