@@ -1,0 +1,13 @@
+.side-nav nav a {
+  min-height: 23px;
+}
+
+.welovedc {
+  width: 300px;
+  height: 300px;
+}
+
+.full-img {
+  max-width: 100%;
+  height: auto;
+}
