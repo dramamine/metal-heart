@@ -1,5 +1,4 @@
 # Hot Ticket: Pinback @ Black Cat, 5/1/11
-
 This Sunday night, indie rockers Pinback return to the Black Cat to deliver a set of positive, upbeat guitar grooves.
 
 Pinback’s front man Rob Crow has been all over the map musically, playing in groups as diverse as math rockers Three Mile Pilot, Chino Moreno’s spacey electro project Team Sleep, and sludge metal outfit Goblin Cock. He’s one of those guys that’s bursting at the seams with songwriting skills, like he can’t help but write catchy tunes in any style with any musical partners.

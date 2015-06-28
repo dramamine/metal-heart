@@ -1,5 +1,4 @@
 # We Love Music: Das Racist @ Rock and Roll Hotel, 1/14/11
-
 ![welovedc](/content/images/dr---shanghai4_5360402153_o.jpg "dr - shanghai4")
 Photo courtesy of [Das Racist](http://dasracist.net/)
 

@@ -1,5 +1,4 @@
 # We Love Music: Thursday & Underoath @ 9:30 Club, 2/22/11
-
 ![welovedc](/content/images/5473005819_8831d67233_o.jpg "IMG_4196-2.jpg")
 [All photos by Andrew Markowitz](http://www.flickr.com/photos/amphotography21/sets/72157626126733154/)
 

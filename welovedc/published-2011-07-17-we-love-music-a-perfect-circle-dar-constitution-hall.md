@@ -1,6 +1,6 @@
 # We Love Music: A Perfect Circle @ DAR Constitution Hall, 7/17/11
+![welovedc](/content/images/a-perfect-circle-1_5956155872_o.jpg)
 
-![](/content/images/a-perfect-circle-1_5956155872_o.jpg "trees")
 All photos courtesy of [A Perfect Circle](https://aperfectcircle.com/)
 
 When I heard that [A Perfect Circle](https://aperfectcircle.com/) was coming to DAR Constitution Hall, I had a ton of questions. The band has been on hiatus for seven years; Maynard’s been working with Tool, Billy Howerdel formed Ashes Divide, and the other members ran off with Smashing Pumpkins, Marilyn Manson and Nine Inch Nails. Why reform the band? Do they still have ‘it’? Are they going to ruin my positive memories of the group? I’m pretty much required to go to this, having seen them and Tool every chance I’ve ever gotten, right?

@@ -1,5 +1,6 @@
 # We Love Music: Puscifer @ Lisner Auditorium, 11/26/11
 ![welovedc](/content/images/puscifer_desert_6424881867_o.jpg "Puscifer")
+
 All images courtesy of [Puscifer](https://store.puscifer.com/)
 
 Are you a [Tool](http://toolband.com) fan? How about [A Perfect Circle](link to that APC review of mine)? Well, I hope you skipped your chance to see their front-man Maynard James Keenan on Saturday night. Maynard brought his solo project [Puscifer](https://store.puscifer.com/) to the Lisner Auditorium for what was supposedly a large production – part multimedia experience, part cabaret. The entire show fell far short of the high bar he set with his other bands. The whole performance wasn’t engaging; the humor seemed to be aimed at 15-year-olds.

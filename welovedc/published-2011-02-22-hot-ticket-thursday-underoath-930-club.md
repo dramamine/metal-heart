@@ -1,5 +1,4 @@
 # Hot Ticket: Thursday & Underoath @ 9:30 Club, 2/22/11
-
 It might be easy to lump the group Thursday, playing tomorrow at the 9:30 Club, in with other aging emo bands such as the Get Up Kids. But Thursday have come a long way since they first cracked the scene in 2001 – their full-length debut “Full Collapse” spawning the hit singles “Cross Out The Eyes” and “Understanding in a Car Crash”. Well, they were hits in my mind, at least. This was always one of my favorite emo bands – they were dramatic and serious, and just a bit heavy. Tomorrow night, they’ll be playing this album in its entirety.
 
 Since then, they’ve consistently revived their style on each album. Lately, frontman Geoff Rickly has been working with a side-project, United Nations, which is sort of a tribute to extremely heavy 90s hardcore bands like Orchid and Pg. 99. Geoff’s instincts have consistently driven Thursday in a heavier direction – even 2003′s “War All the Time” was much darker and angrier than “Full Collapse”. Since splitting ways with Island Records in 2007, Thursday have toured with bands that don’t quite match their emo style – heavy bands like Converge and Envy.

@@ -1,5 +1,4 @@
 # We Love Music: The Submarines @ Black Cat, 4/28/11
-
 ![welovedc](/content/images/5673874393_742b66378f_o.jpg "Submarines @BlackCatDC-2")
 
 All photos courtesy of [Paivi Salonen](http://www.flickr.com/photos/spiggycat/sets/72157626618028450/with/5673874393/)

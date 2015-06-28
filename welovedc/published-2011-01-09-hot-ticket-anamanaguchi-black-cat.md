@@ -1,5 +1,4 @@
 # Hot Ticket: Anamanaguchi @ Black Cat 1/9/11
-
 Anamanaguchi are returning to the Black Cat Backstage this Sunday with their signature brand of punk/power-pop.  Oh, and they’re bringing their hacked Nintendo.
 
 Anamanaguchi are quickly becoming one of the most infamous “chiptunes” bands around.  In the past year, they’ve composed the soundtracks to video games including Scott Pilgrim vs The World: The Game, and are slated to appear in the next version of Rock Band.  They also grabbed minor media attention for holding a vigil in support of Four Loko in NYC last November.

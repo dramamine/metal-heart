@@ -1,6 +1,5 @@
 # We Love Music: M83 @ Black Cat, 10/28/11
-
-![welovedc](m83---hurry-up-were-dreaming_6297136961_o.jpg "Matey-three")
+![welovedc](/content/images/m83---hurry-up-were-dreaming_6297136961_o.jpg "Matey-three")
 
 I remember when M83 released their breakthrough album Dead Cities, Red Seas, & Lost Ghosts back when I was in college. M83 easily fit in my collection with groups like The Postal Service and The Notwist, yet the album had no vocalist to connect it with mankind. The occasional words were only samples; it was like a glimpse at a dystopian future, where maybe people weren’t even around anymore. I could imagine their core member Anthony Gonzalez in his French chateau, sitting at his laptops and keyboards, writing minimalist, electronic soundtracks for lonely bedrooms.
 

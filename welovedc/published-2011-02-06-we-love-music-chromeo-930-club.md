@@ -1,5 +1,4 @@
 # We Love Music: Chromeo @ 9:30 Club, 2/6/11
-
 ![welovedc](/content/images/5424319432_a019f7dd1c_o.jpg "IMG_7473")
 All photos by Michael Darpino
 

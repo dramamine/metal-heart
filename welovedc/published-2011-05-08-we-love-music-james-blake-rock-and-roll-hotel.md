@@ -1,5 +1,6 @@
 # We Love Music: James Blake @ Rock and Roll Hotel, 5/8/11
 ![welovedc](/content/images/blake1_5705161789_o.jpg "blake1")
+
 Courtesy of James Blake
 
 If you want some idea of what James Blake’s show sounded like on Sunday night at the Rock and Roll Hotel, do yourself a favor and listen to [this broadcast of his SXSW set](http://www.npr.org/2011/04/07/134531765/sxsw-2011-james-blake-live-in-concert) while you read.

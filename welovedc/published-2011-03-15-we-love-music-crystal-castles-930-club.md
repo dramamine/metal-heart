@@ -1,6 +1,6 @@
 # We Love Music: Crystal Castles @ 9:30 Club, 3/15/11
-
 ![welovedc](/content/images/cc1_5536469190_o.jpg "cc1")
+
 All images courtesy of [Crystal Castles](http://crystalcastles.com/)
 
 Crystal Castles is a band I haven’t quite wrapped my head around yet. They’re a duet that plays slightly off-kilter, dark, noisy electronic music. It’s a pretty strange mix of Vegas slot-machine ambience, Gameboy bleeps and bloops, and ghostly vocals. Why do people like this? Maybe because it’s so weird. Or because you can dance to it. But like Apple Jacks, I just like it, and I can’t explain why. Clearly I’m not the only one who feels this way – they sold out the [9:30 Club](http://www.930.com/) on Wednesday, just like the last time they came through DC in August.

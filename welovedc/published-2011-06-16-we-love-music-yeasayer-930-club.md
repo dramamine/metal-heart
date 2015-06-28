@@ -1,5 +1,4 @@
 # We Love Music: Yeasayer @ 9:30 Club, 6/16/2011
-
 ![welovedc](/content/images/yeasayer-930-club-6162011-2_5849707409_o.jpg "I AM AUTHOR")
 All photos by author
 

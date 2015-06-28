@@ -1,5 +1,4 @@
 # We Love Music: Broken Records @ Black Cat Backstage, 2/20/11
-
 ![welovedc](/content/images/5466341695_6017e284f1_o.jpg "U.S. Royalty @ Black Cat")
 All photos by [Erin McCann](http://www.flickr.com/photos/erin_m/sets/72157626106570280/with/5466948704/)
 

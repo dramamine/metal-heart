@@ -1,5 +1,4 @@
 # Why I Love DC: Martin
-
 ![](/content/images/4909319084_fa3a4a2326_b.jpg)
 ['Rock Creek Parkway at Night'](http://www.flickr.com/photos/78993964@N00/4909319084)
 courtesy of [‘ianseanlivingston’](http://www.flickr.com/people/78993964@N00/)

@@ -1,6 +1,6 @@
 # We Love Music: Appleseed Cast @ Rock and Roll Hotel, 4/30/11
-
 ![welovedc](/content/images/5681712895_2f7001bb63.jpg "appleseed_1")
+
 All photos courtesy of [The Appleseed Cast](http://www.myspace.com/theappleseedcast/)
 
 Over their 15-year career, [The Appleseed Cast](http://www.myspace.com/theappleseedcast/) have slowly morphed from their emo roots into a dynamic and powerful post-rock group. I must say, I haven’t paid too much attention to the band since 2003’s *Two Conversations*. But Saturday night’s show at the Rock and Roll Hotel impressed me – I felt like I was discovering a new band. Their current sound has only sparse vocals, and rarely anything resembling a catchy chorus. It’s all about the swelling guitar lines – with three guitarists, they have plenty of flexibility to create intricate harmonies.

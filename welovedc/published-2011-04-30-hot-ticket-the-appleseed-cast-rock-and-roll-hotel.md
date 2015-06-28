@@ -1,5 +1,4 @@
 # Hot Ticket: The Appleseed Cast @ Rock and Roll Hotel, 4/30/11
-
 “As the tear flow out it’s the end, the end of you and me.” They probably don’t appreciate me saying this, but don’t miss one of the 21st century’s finest emo groups at the Rock and Roll Hotel this Saturday.
 
 The Appleseed Cast have been cranking out albums for nearly 15 years. I’ll always remember them as a band taking the Midwestern emo style of bands like Mineral and Texas Is The Reason, and bringing it to the next level – toning down the melodrama, and adding increasingly complex music to back it up. “Fight Song” still gives me chills when I hear that opening melody. It’s been on so many mixtapes of mine – you don’t even know. The emo-ness has largely faded from their more recent tunes, leaving only professional, feel-good rock n roll.

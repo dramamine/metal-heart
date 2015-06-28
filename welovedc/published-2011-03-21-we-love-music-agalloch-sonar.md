@@ -1,5 +1,6 @@
 # We Love Music: Agalloch @ Sonar (Baltimore), 3/21/11
 ![welovedc](/content/images/ag1_5551516431_o.jpg "ag1")
+
 All photos courtesy of [Agalloch](http://www.myspace.com/agalloch/photos/)
 
 On Monday, I drove up to Baltimore to check out [Agalloch](http://www.myspace.com/agalloch), rising stars in the American black metal scene. You know, I try to defend DC’s metal scene, but what does it mean when a [critically](http://pitchfork.com/reviews/albums/14920-marrow-of-the-spirit/) [acclaimed](http://www.npr.org/2010/12/02/131192147/first-listen-agalloch-marrow-of-the-spirit) band passes us by? Are we not metal enough for a band from Portland? Are our local venues discriminating against the longhairs?

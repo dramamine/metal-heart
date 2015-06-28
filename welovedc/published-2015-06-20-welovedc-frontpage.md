@@ -1,3 +1,4 @@
+# WeLoveDC Frontpage
 
 - [\*favorite posts\*](/tag/welovedc-fav)
 - [Why I Love DC](why-i-love-dc-martin)
@@ -18,4 +19,3 @@ I didn't get paid, but I got to go to lots of shows for free. Sometimes I would 
 As far as reception goes, I only got a few internet comments here and there, and checking the page counter, I found that I might get 1000 hits on a review of a band people actually know. This is the biggest audience I've ever written for, so that pushed me to try hard on every post! However, an unfortunate side effect is that it made writing personal blogs that no-one reads feel extra lonely and pointless!
 
 At the end of 2011, Michael started being less involved in WeLoveDC, and as a consequence, I did too. I wasn't privy to the discussions of WeLoveDC as a business, but I'm guessing it didn't make money and looks pretty much abandoned as of now. The last music reviews are from October '14.
-

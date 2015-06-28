@@ -1,5 +1,4 @@
 # Hot Ticket: Mogwai @ 9:30 Club, 4/19/11
-
 UPDATE: According to their official website, Mogwai are postponing this date until October due to issues with their visa. All tickets for this show will be honored.
 
 Mogwai. How do I even begin recommending that you check out my favorite band of all time? I’d rather you not even come, in case you don’t understand what they’re about. In fact, I’d prefer that we keep the crowd really small – like, just me and the band members, please.

@@ -1,5 +1,4 @@
 # We Love Music: Fucked Up @ Rock and Roll Hotel, 6/27/11
-
 ![welovedc](/content/images/5882724079_b3eef5c574_o.jpg)
 All photos by [Rachel Rasby](http://www.flickr.com/photos/64609421@N07/sets/72157627076951874/)
 

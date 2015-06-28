@@ -1,6 +1,6 @@
 # We Love Music: Pinback @ Black Cat, 5/1/11
-
 ![welovedc](/content/images/5681928573_0002d40da1_o.jpg "Pinback @BlackCatDC-16")
+
 All images courtesy of [Paivi Salonen](http://www.flickr.com/photos/spiggycat/sets/72157626510473335/)
 
 Bands using video projectors at their live shows can be hit-or-miss. At their best, you can have a band like Godspeed You! Black Emperor, who count their projectionist as a full-on band member. He moves back and forth between four(!) projectors, mixing up a series of dark images to add to the brooding feel of the music. At their worst, you might as well stare at the iTunes visualizer on your laptop.

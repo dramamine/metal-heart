@@ -1,5 +1,7 @@
 # We Love Music: Darkest Hour @ 9:30 Club, 2/25/11
-![welovedc](/content/images/5480769063_fab97c1dd4.jpg "Atticus Tour @ 9:30 Club")
+# We Love Music: Darkest Hour @ 9:30 Club, 2/25/11
+[![welovedc](/content/images/930mosh-s.jpg "Atticus Tour @ 9:30 Club")](/content/images/930mosh.jpg)
+
 [All photos by Erin McCann](http://www.flickr.com/photos/erin_m/sets/72157626154004786/with/5480726223/)
 
 How was your weekend? Mine started off with a bang – as soon as I got off work, I headed straight for the 9:30 Club to check out a handful of metal bands on the **Atticus Metal Tour**. This was an early show, running only until 9pm, since rockabilly queen [Wanda Jackson](http://www.wandajackson.com/) had a later show that night. So who shows up for a metal show at 5pm? High school kids. Drunk people. And me. I got my dose of metal that left me pumped for the rest of the weekend.

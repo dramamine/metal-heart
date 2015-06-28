@@ -1,6 +1,6 @@
 # We Love Music: This Will Destroy You @ Rock and Roll Hotel, 6/5/11
-
 ![welovedc](/content/images/this-will-destroy-you---press-photo_5810086770_o.jpg "This Will Destroy You - press photo")
+
 All photos courtesy of [This Will Destroy You](http://twdy.tumblr.com/)
 
 [This Will Destroy You](http://twdy.tumblr.com/) is one of my favorite groups in the post-rock scene right now. I feel like they’re creating music specifically for me. It has the pleasant, sometimes melancholy soft-loud dynamic of bands like [Mogwai](http://www.myspace.com/mogwai) or [Jakob](http://www.myspace.com/jakobmusic). Yet they’ve taken a turn for the dark side lately. Their new material is ominous, ambient, less guitar-oriented yet still just as destructive. It’s the kind of music you can lose yourself in.
