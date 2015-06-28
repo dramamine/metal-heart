@@ -2,7 +2,6 @@ mylifeismetal*.xml
 rewrite.*
 import.rb
 README
-public/js/soundmanager2/
 welovedc/images/
 welovedc/images-full/
 welovedc/welovedc.zip
@@ -11,3 +10,4 @@ Gemfile
 .gems
 Rakefile
 config.ru
+blog/
