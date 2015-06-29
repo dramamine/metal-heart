@@ -11,3 +11,18 @@
   max-width: 100%;
   height: auto;
 }
+
+.flow {
+  float: left;
+  margin: 10px;
+}
+
+.flow img {
+  max-width: 350px;
+  max-height: 350px;
+}
+
+.day {
+  clear: left;
+  overflow: auto;
+}
