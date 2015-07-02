@@ -26,3 +26,9 @@
   clear: left;
   overflow: auto;
 }
+
+img[alt=pinnastorm-tiny] {
+  width: 125px;
+  height: 125px;
+  float: left;
+}
