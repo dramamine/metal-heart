@@ -44,13 +44,25 @@ article img[alt=pinnastorm-tiny] {
   font-weight: 400;
 }
 
-.tag-pinnastorm article a {
+.tag-pinnastorm .content a {
   color: #F36;
 }
 
-.tag-pinnastorm article a:active {
+.tag-pinnastorm .content a:active {
   color: #f23183;
 }
-.tag-pinnastorm article a:visited {
+.tag-pinnastorm .content a:visited {
+  color: #f05898;
+}
+
+
+.tag-pinnastorm-frontpage .content a {
+  color: #F36;
+}
+
+.tag-pinnastorm-frontpage .content a:active {
+  color: #f23183;
+}
+.tag-pinnastorm-frontpage .content a:visited {
   color: #f05898;
 }
