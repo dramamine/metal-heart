@@ -1,5 +1,6 @@
 # Digital Drugs: A Trip Report
-by Martin Silbiger
+By Martin Silbiger
+Wednesday September 15, 2010
 
 http://www.youtube.com/watch?v=1pm8Kj988ew
 

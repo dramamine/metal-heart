@@ -7,7 +7,13 @@
   height: 300px;
 }
 
-.full-img {
+
+article p .full-img {
+  width: inherit;
+  max-width: 100%;
+}
+
+img[alt=welovedc] {
   max-width: 100%;
   height: auto;
 }
@@ -27,8 +33,24 @@
   overflow: auto;
 }
 
-img[alt=pinnastorm-tiny] {
+article img[alt=pinnastorm-tiny] {
   width: 125px;
   height: 125px;
   float: left;
+  margin: 10px;
+}
+
+.content p {
+  font-weight: 400;
+}
+
+.tag-pinnastorm article a {
+  color: #F36;
+}
+
+.tag-pinnastorm article a:active {
+  color: #f23183;
+}
+.tag-pinnastorm article a:visited {
+  color: #f05898;
 }

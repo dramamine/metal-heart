@@ -10,4 +10,5 @@ Gemfile
 .gems
 Rakefile
 config.ru
-blog/
+pinnastorm/images/
+blog

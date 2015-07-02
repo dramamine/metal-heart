@@ -3,11 +3,12 @@ By Martin Silbiger
 Friday November 19, 2010
 
 ![pinnastorm-tiny](/content/images/timthumb.jpg)
+
 Image by Lindsay Shelton-Gross
 
 I just read Nick Hornby’s classic novel, _High Fidelity_.  And re-watched the movie. It was great and all, I guess... but how are young folks (“Millennials”?) supposed to understand it? I mean, have you ever looked up a girl in the phone book? When was the last time you played a cassette? This novel is like reading a history book. I did some extensive research and translation on a couple scenes, so that y’all don’t have to call up your dad to ask what’s going on. You’re welcome, internet.
 
-~~~~~
+---
 
 You know why there’s a whole mess of 40somethings hooking up on Facebook? It’s not because their kids are on it and they want to be “cool.” It’s because even after decades, they still want to keep tabs on, and maybe check in with, their exes.
 
@@ -25,20 +26,32 @@ After browsing through dozens of pictures of your kids, I start to wonder, how d
 
 Of course, those aren’t the kinds of questions you can just post on someone’s wall.  “All-time top five desert-island albums,” sure.  “Are you really such a sad sap in real life,” not so much.
 
-~~~~~
+---
 
 “How’s the band treating you, Barry?  Are you guys still going by  ‘Barrytown’?”
+
 Barry glares at me.  He hates talking about the band.
+
 “Who do you sound like? Vampire Weekend? Wavves?”
+
 “You wouldn’t be familiar with our immediate influences. We’re creating a completely revolutionary sound, unlike anything you’ve heard before! It’s sort of like dubstep, with the attitude of chillwave and the ambience of witch house.”
+
 “Witch House? That’s not even a real genre, you just read about it on the internet.”
+
 “It IS real. It WAS the hottest new genre, before our band invented something even better.”
+
 “What does Witch House even sound like?”
+
 “It’s indescribable, but when you hear it, you know it.”
+
 “What’s your favorite Witch House song?”
+
 “Well... uh... most of the titles are unpronounceable...”
+
 Barry stares straight at me, rage and/or embarrassment growing in his eyes.
+
 “I bet you can’t even name a single fucking Witch House artist.”
+
 He throws his middle fingers in the air and stomps out of the shop.
 
 ~~~~~
@@ -47,9 +60,9 @@ I call her all the time. I call her at the office. I call her after work. She ne
 
 I started texting her. At least that way, I knew she would read what I had to say. You practically HAVE to read a text before you delete it anyway, right? Plus, I had called so many times, hearing her voicemail message over and over, that I expected nothing but the machine. If Laura had actually answered, I wouldn’t have had anything to say. Texting at least gave me focus.
 
-Well, it did at first. I got pretty good at composing 160 characters of relationship angst. How’s this one? 10:03am: “Hi Laura. How are you? I didn’t really like the way we left things last time. Do you think we could get together and discuss things over a pint? c u soon xoxo.” Or 1:35am: “ARE YOU SLEEPING WITH HIM RIGHT NOW? Hope I didn’t interrupt anything. Actually, I hope I did.” Ha ha. Of course, by the time I had sent around a hundred text messages, I didn’t even have the will to compose real messages. 12:35pm: “:-( :-(  :-(  :-( :’-(” 2:00pm: “Ian=shit.” I was just texting to be a small part of her life, even if it was a part that was making her feel sorry or guilty or scared or angry. It didn’t matter. Hell, it only cost me ten cents per message.
+Well, it did at first. I got pretty good at composing 160 characters of relationship angst. How’s this one? 10:03am: “Hi Laura. How are you? I didn’t really like the way we left things last time. Do you think we could get together and discuss things over a pint? c u soon xoxo.” Or 1:35am: “ARE YOU SLEEPING WITH HIM RIGHT NOW? Hope I didn’t interrupt anything. Actually, I hope I did.” Ha ha. Of course, by the time I had sent around a hundred text messages, I didn’t even have the will to compose real messages. 12:35pm: “:-(  :-(  :-(  :-( :’-(” 2:00pm: “Ian=shit.” I was just texting to be a small part of her life, even if it was a part that was making her feel sorry or guilty or scared or angry. It didn’t matter. Hell, it only cost me ten cents per message.
 
-~~~~~
+---
 
 Is it so wrong, wanting to be home with your mp3 collection? I mean, it’s fine, keeping an 80 gig iPod full of your “greatest hits.” But every once in a while, you’re walking down the street, and you think of the perfect song for the moment, and you search for it, but it’s not there. At home, everything is at your fingertips.
 
@@ -61,10 +74,12 @@ I’ve got a dozen ideas for playlists I’d love to create, but for now I just 
 
 I start subdividing them into smaller categories. Here’s a sample:
 
-Breakup (Phase 2: Anger). “Leave” by Glen Hansard. “Babe I’m Gonna Leave You” by Led Zeppelin. “Push” by Matchbox 20. “Wish” by Nine Inch Nails. “Concubine” by Converge.
-Breakup (Phase 4: Sorrow). “Unhappy” by Lincoln. “Lovers Without Love Like Me” by Joshua James. “To Forgive” by Smashing Pumpkins. “Avalanche” by Matthew Good. “Asleep” by The Smiths.
-Breakup (Phase 5: Acceptance). “Song for the Dumped” by Ben Folds Five. “Dammit” by Blink 182.  “Fuck You” by Cee-lo. “Time to Get Away” by LCD Soundsystem. “Rootless Tree” by Damien Rice.
+**Breakup (Phase 2: Anger).**. “Leave” by Glen Hansard. “Babe I’m Gonna Leave You” by Led Zeppelin. “Push” by Matchbox 20. “Wish” by Nine Inch Nails. “Concubine” by Converge.
+
+**Breakup (Phase 4: Sorrow).** “Unhappy” by Lincoln. “Lovers Without Love Like Me” by Joshua James. “To Forgive” by Smashing Pumpkins. “Avalanche” by Matthew Good. “Asleep” by The Smiths.
+
+**Breakup (Phase 5: Acceptance).** “Song for the Dumped” by Ben Folds Five. “Dammit” by Blink 182.  “Fuck You” by Cee-lo. “Time to Get Away” by LCD Soundsystem. “Rootless Tree” by Damien Rice.
 
 I start thinking about sorting the list by the women who’ve dumped me, but it brings up too many unpleasant memories and there’s too much overlap and it’s already 2am.
 
-~~~~~
+---

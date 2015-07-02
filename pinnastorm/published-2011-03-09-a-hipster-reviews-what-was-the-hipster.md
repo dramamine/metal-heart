@@ -3,6 +3,7 @@ By Martin Silbiger
 Wednesday March 9, 2011
 
 ![pinnastorm](/content/images/WhatWasTheHipster.jpg)
+
 Only a hipster would read [http://www.amazon.com/What-Was-Hipster-Sociological-Investigation/dp/0982597711](this book). (Only a hipster would even read this review.)\[1\] It’s a collection of essays about the essence of hipsterdom; at times it’s a discussion of how the hipster is “so totally over” and attempts to point at what ‘post-hipster’ will be. It centers around a panel that these hipsters at [N+1](http://nplusonemag.com/), a small publication from Williamsburg, held to discuss the hipster phenom in an academic setting. My immediate criticism — does it take hipsters to declare the hipster dead? — is covered in the book, of course. This book is so completely filled with contradicting ideas and responses to itself that it basically creates a black hole of analysis. Hope you like meta.
 
 A hipster’s favorite mental exercise is to define what a hipster is, then exclude him/herself from this category. This book is full of quotes and ideas that will either make you nod with agreement, or shriek with disgust and defensiveness. And the best part is, it’s in the context of sociological analysis! Remember that from your liberal arts education? I do! Only one of the dozen or so writers in this book is actually able to distill the meaning and essence of hipsterdom, and it’s pretty depressing/heavy/real. But the rest was pretty entertaining, so let’s talk about that first!
@@ -36,13 +37,21 @@ Also, hipsterdom constitutes the opposite of “white flight” to the suburbs. 
 So yeah! If that brings you down, I’m sorry. If that doesn’t explain your life as a hipster, sorry about that too. But once you start thinking about your place in a city, or your place in society, getting your signifiers of style/class in order seems pretty trivial compared to what you are actually doing as a participating member of society.
 
 \[1\] Not like this is even an original thought of mine. ”If you are concerned enough about the phenomenon to analyze it and discuss it, you are already somewhere on the continuum of hipsterism and are in the process of trying to rid yourself of it’s ‘taint’.” (from n+1’s announcement of the event.)
+
 \[2\]a.k.a. “rebel capitalism”
+
 \[3\]http://www.avclub.com/articles/part-1-1990-once-upon-a-time-i-could-love-you,45892/
+
 \[4\]Jace Clayton, “Vampires of Lima”. Microgenres like “witch house” are designed to embrace this. You can’t even search for them using Google! You just have to know about them! That’s how “underground” you are.
+
 \[5\]Greif, “Discussion”
+
 \[6\]mainstream indie; this word does not actually appear in this book. See also “indiestream”, first used by Pinna Storm photographer Christy Baugh.
+
 \[7\]Also, arguing about whether or not art is “hipster” just avoids the question of whether it is “good,” which would be a more interesting discussion.
+
 \[8\]Hipsters can probably like these things ironically anyway.
+
 \[9\]The phrase “ironic white pride” nearly made my head explode.
 
 
