@@ -8,8 +8,6 @@ require('normalize.css');
 require('../styles/main.css');
 
 
-
-
 var Tab = React.createClass({
 
   render: function() {
@@ -19,7 +17,6 @@ var Tab = React.createClass({
         <div>Loading...</div>
         );
     }
-
 
     var eachImage = this.props.data.content.map(function(image) {
       var imgsrc = 'http://metal-heart.org/content/images/fit/' + image.img;
@@ -31,7 +28,6 @@ var Tab = React.createClass({
       );
     });
 
-
     return (
       <div>
       <span>{this.props.title} - {this.props.data.cals} Cals</span>
@@ -42,57 +38,10 @@ var Tab = React.createClass({
 
 });
 
-var Tabs = React.createClass({
-
-  handleClick: function(name) {
-    this.props.onChange( name );
-  },
-
-  render: function() {
-    var props = this.props;
-
-    if( props.data === null )
-    {
-      return (<div />);
-    }
-
-    var self = this;
-
-    function tab(name) {
-
-      return dom.a({
-        href: '#',
-        className: props.selectedItem === name ? 'selected' : '',
-        onClick: self.handleClick.bind(null, name),
-        key: name
-      }, name);
-    }
-
-    var tabs = Object.keys( this.props.data ).map(function(day) {
-      return tab(day);
-    });
-
-    return (
-      <div>
-      {tabs}
-      </div>
-      );
-
-  }
-});
-
 var FitApp = React.createClass({
 
-  getInitialState: function() {
-    return {
-      selectedTab: 'Sunday',
-      data: null,
-      currentDaysData: null
-    };
-  },
-
-  onSelectTab: function(evt) {
-    this.setState({ selectedTab: evt });
+  handleClick: function(name) {
+    this.setState({selectedItem: name});
   },
 
   componentDidMount: function() {
@@ -106,19 +55,51 @@ var FitApp = React.createClass({
     });
   },
 
+
+  getInitialState: function() {
+    return {
+      selectedItem: 'Sunday',
+      data: null
+    };
+  },
+
   render: function() {
-    var mydata = this.state.data && this.state.data.hasOwnProperty(this.state.selectedTab) ? this.state.data[this.state.selectedTab] : null;
+    if( this.state.data === null )
+    {
+      return (<div>Loading...</div>);
+    }
+
+    var self = this;
+
+    function tab(name) {
+
+      return dom.a({
+        href: '#',
+        className: self.state.selectedItem === name ? 'selected' : '',
+        onClick: self.handleClick.bind(null, name),
+        key: name
+      }, name);
+    }
+
+    var tabs = Object.keys( this.state.data ).map(function(day) {
+      return tab(day);
+    });
+
+    var mydata = this.state.data[this.state.selectedItem];
 
     return (
-      <div className="main">
-        <Tabs data={this.state.data} selected={this.state.selectedTab} onChange={this.onSelectTab} />
-        {this.props.tabs}
-        <Tab title={this.state.selectedTab} data={mydata} />
+      <div className="content">
+        <div className="tabs">
+        {tabs}
+        </div>
+        <Tab title={this.state.selectedItem} data={mydata} />
       </div>
-    );
-  }
+      );
 
+  }
 });
+
+
 React.render(<FitApp />, document.getElementById('content')); // jshint ignore:line
 
 module.exports = FitApp;
