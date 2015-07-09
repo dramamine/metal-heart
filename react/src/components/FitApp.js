@@ -1,27 +1,31 @@
 'use strict';
 
 var React = require('react');
-
+var dom = React.DOM;
+var $ = require('jquery');
 // CSS
 require('normalize.css');
 require('../styles/main.css');
 
-// var content = require('../data/pix.json');
-// console.log(content);
 
 
 
 var Tab = React.createClass({
 
   render: function() {
-    console.log(this.props);
-    var day =  this.props.data[this.props.dayId];
-    console.log(day);
-
-    var eachImage = day.content.map(function(image) {
+    if( this.props.data === null )
+    {
       return (
-        <div class="flow">
-          <img src="/content/images/fit/{image.img}" />
+        <div>Loading...</div>
+        );
+    }
+
+
+    var eachImage = this.props.data.content.map(function(image) {
+      var imgsrc = 'http://metal-heart.org/content/images/fit/' + image.img;
+      return (
+        <div className="flow">
+          <img src={imgsrc} />
           <br />{image.title}
         </div>
       );
@@ -30,7 +34,7 @@ var Tab = React.createClass({
 
     return (
       <div>
-      <span>{day.day} - {day.cals} Cals</span>
+      <span>{this.props.title} - {this.props.data.cals} Cals</span>
       {eachImage}
       </div>
     );
@@ -38,55 +42,78 @@ var Tab = React.createClass({
 
 });
 
+var Tabs = React.createClass({
+
+  handleClick: function(name) {
+    this.props.onChange( name );
+  },
+
+  render: function() {
+    var props = this.props;
+
+    if( props.data === null )
+    {
+      return (<div />);
+    }
+
+    var self = this;
+
+    function tab(name) {
+
+      return dom.a({
+        href: '#',
+        className: props.selectedItem === name ? 'selected' : '',
+        onClick: self.handleClick.bind(null, name),
+        key: name
+      }, name);
+    }
+
+    var tabs = Object.keys( this.props.data ).map(function(day) {
+      return tab(day);
+    });
+
+    return (
+      <div>
+      {tabs}
+      </div>
+      );
+
+  }
+});
+
 var FitApp = React.createClass({
 
   getInitialState: function() {
     return {
-      selectedTab: 0,
-      data: [{
-          day: "Sunday",
-          cals: 1600,
-          content: [
-            {
-              img: "yoga-chataranga.gif",
-              title: "Hot yoga (1 hr)"
-            },
-            {
-              img: "01-P1050208.jpg",
-              title: "Omelette w/ avocado, mushrooms, peppers & onions, toast"
-            },
-            {
-              img: "02-P1050213.jpg",
-              title: "Brussels sprouts + beef patty, cheese, avocado"
-            }
-          ]
-         },
-         {
-          day: "Monday",
-          cals: 1600,
-          content: [
-            {
-              img: "yoga-chataranga.gif",
-              title: "Hot yoga (1 hr)"
-            },
-            {
-              img: "01-P1050208.jpg",
-              title: "Omelette w/ avocado, mushrooms, peppers & onions, toast"
-            },
-            {
-              img: "02-P1050213.jpg",
-              title: "Brussels sprouts + beef patty, cheese, avocado"
-            }
-          ]
-         }
-        ]
+      selectedTab: 'Sunday',
+      data: null,
+      currentDaysData: null
     };
   },
 
+  onSelectTab: function(evt) {
+    this.setState({ selectedTab: evt });
+  },
+
+  componentDidMount: function() {
+    $.ajax({
+      url: '../data/pix.json',
+      dataType: 'json',
+      cache: false,
+      success: function(data) {
+        this.setState({data: data});
+      }.bind(this)
+    });
+  },
+
   render: function() {
+    var mydata = this.state.data && this.state.data.hasOwnProperty(this.state.selectedTab) ? this.state.data[this.state.selectedTab] : null;
+
     return (
       <div className="main">
-        <Tab data={this.state.data} dayId={this.state.selectedTab} />
+        <Tabs data={this.state.data} selected={this.state.selectedTab} onChange={this.onSelectTab} />
+        {this.props.tabs}
+        <Tab title={this.state.selectedTab} data={mydata} />
       </div>
     );
   }
