@@ -1,0 +1,39 @@
+{
+  "0": {
+    day: "Sunday",
+    cals: 1600,
+    content: [
+      {
+        img: "yoga-chataranga.gif",
+        title: "Hot yoga (1 hr)"
+      },
+      {
+        img: "01-P1050208.jpg",
+        title: "Omelette w/ avocado, mushrooms, peppers & onions, toast"
+      },
+      {
+        img: "02-P1050213.jpg",
+        title: "Brussels sprouts + beef patty, cheese, avocado"
+      }
+    ]
+   },
+
+  "1": {
+    day: "Monday",
+    cals: 1600,
+    content: [
+      {
+        img: "yoga-chataranga.gif",
+        title: "Hot yoga (1 hr)"
+      },
+      {
+        img: "01-P1050208.jpg",
+        title: "Omelette w/ avocado, mushrooms, peppers & onions, toast"
+      },
+      {
+        img: "02-P1050213.jpg",
+        title: "Brussels sprouts + beef patty, cheese, avocado"
+      }
+    ]
+   }
+}
