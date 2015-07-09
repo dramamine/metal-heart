@@ -2,6 +2,23 @@
   min-height: 23px;
 }
 
+.side-nav nav i {
+    font-size:20px;
+}
+
+.container {
+  margin-left: inherit;
+  max-width: inherit;
+}
+
+.main-pane {
+  padding-left: 0px;
+}
+
+.side-nav {
+  width: 18%;
+}
+
 .welovedc {
   width: 300px;
   height: 300px;
@@ -24,14 +41,16 @@ img[alt=welovedc] {
 }
 
 .flow img {
-  max-width: 350px;
-  max-height: 350px;
+  max-width: 300px;
+  max-height: 300px;
 }
 
 .day {
   clear: left;
   overflow: auto;
 }
+
+
 
 article img[alt=pinnastorm-tiny] {
   width: 125px;

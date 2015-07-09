@@ -12,3 +12,4 @@ Rakefile
 config.ru
 pinnastorm/images/
 blog
+README-digital-ocean-ghost.md

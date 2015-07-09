@@ -43,4 +43,5 @@ git pull
 ```
 
 ### Assets
-`scp blog/content/images/* root@metal-heart.org:/var/www/blog/content/images/`
+rsync -a --ignore-existing blog/content/images/* root@metal-heart.org:/var/www/blog/content/images/
+
