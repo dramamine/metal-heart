@@ -23,9 +23,9 @@ var Tab = React.createClass({
     var eachImage = this.props.data.content.map(function(image) {
       var imgsrc = '../content/images/fit/' + image.img;
       return (
-        <div className="flow col-md-4 col-sm-3">
+        <div className="flow">
           <img src={imgsrc} />
-          <br />{image.title}
+          <center>{image.title}</center>
         </div>
       );
     });
