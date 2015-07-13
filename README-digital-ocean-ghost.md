@@ -15,12 +15,19 @@ Let's add this to `/etc/nginx/conf.d/metal-heart.conf`
 server {
     listen 80;
     server_name metal-heart.org;
+
+    location ~ /static {
+        root /var/www/blog/;
+        expires 24h;
+
+    }
     location / {
         proxy_set_header   X-Real-IP $remote_addr;
         proxy_set_header   Host      $http_host;
         proxy_pass         http://127.0.0.1:2368;
     }
 }
+
 server {
     listen 80;
     server_name karaoke.metal-heart.org;

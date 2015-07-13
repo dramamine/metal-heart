@@ -2,10 +2,12 @@
 
 var React = require('react');
 var dom = React.DOM;
-var $ = require('jquery');
+var jQuery = require('jquery');
+
+
+
 // CSS
 require('normalize.css');
-require('../styles/main.css');
 
 
 var Tab = React.createClass({
@@ -19,9 +21,9 @@ var Tab = React.createClass({
     }
 
     var eachImage = this.props.data.content.map(function(image) {
-      var imgsrc = 'http://metal-heart.org/content/images/fit/' + image.img;
+      var imgsrc = '../content/images/fit/' + image.img;
       return (
-        <div className="flow">
+        <div className="flow col-md-4 col-sm-3">
           <img src={imgsrc} />
           <br />{image.title}
         </div>
@@ -30,8 +32,12 @@ var Tab = React.createClass({
 
     return (
       <div>
-      <span>{this.props.title} - {this.props.data.cals} Cals</span>
-      {eachImage}
+        <h3>{this.props.title} - {this.props.data.cals} Cals</h3>
+        <div className="container-fluid">
+          <div className="row">
+        {eachImage}
+          </div>
+        </div>
       </div>
     );
   }
@@ -45,8 +51,8 @@ var FitApp = React.createClass({
   },
 
   componentDidMount: function() {
-    $.ajax({
-      url: '../data/pix.json',
+    jQuery.ajax({
+      url: '../static/pix.json',
       dataType: 'json',
       cache: false,
       success: function(data) {
@@ -72,13 +78,14 @@ var FitApp = React.createClass({
     var self = this;
 
     function tab(name) {
-
-      return dom.a({
-        href: '#',
-        className: self.state.selectedItem === name ? 'selected' : '',
-        onClick: self.handleClick.bind(null, name),
-        key: name
-      }, name);
+      return dom.li({
+        className: self.state.selectedItem === name ? 'active' : ''},
+        dom.a({
+          href: '#',
+          onClick: self.handleClick.bind(null, name),
+          key: name
+        }, name)
+      );
     }
 
     var tabs = Object.keys( this.state.data ).map(function(day) {
@@ -89,14 +96,16 @@ var FitApp = React.createClass({
 
     return (
       <div className="content">
-        <div className="tabs">
+        <ul className="nav nav-tabs">
         {tabs}
-        </div>
+        </ul>
         <Tab title={this.state.selectedItem} data={mydata} />
       </div>
-      );
+    );
+
 
   }
+
 });
 
 
