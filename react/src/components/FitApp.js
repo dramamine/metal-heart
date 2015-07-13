@@ -8,6 +8,7 @@ var jQuery = require('jquery');
 
 // CSS
 require('normalize.css');
+require('../styles/fit.css');
 
 
 var Tab = React.createClass({
@@ -32,11 +33,9 @@ var Tab = React.createClass({
 
     return (
       <div>
-        <h3>{this.props.title} - {this.props.data.cals} Cals</h3>
-        <div className="container-fluid">
-          <div className="row">
+        <center><h3>{this.props.title} - {this.props.data.cals} Cals</h3></center>
+        <div className="container">
         {eachImage}
-          </div>
         </div>
       </div>
     );
@@ -95,10 +94,12 @@ var FitApp = React.createClass({
     var mydata = this.state.data[this.state.selectedItem];
 
     return (
-      <div className="content">
-        <ul className="nav nav-tabs">
-        {tabs}
-        </ul>
+      <div className="fit-content">
+        <div className="tabs">
+          <ul className="nav nav-tabs">
+          {tabs}
+          </ul>
+        </div>
         <Tab title={this.state.selectedItem} data={mydata} />
       </div>
     );
