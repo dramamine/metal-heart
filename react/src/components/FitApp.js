@@ -47,6 +47,7 @@ var FitApp = React.createClass({
 
   handleClick: function(name) {
     this.setState({selectedItem: name});
+    return false;
   },
 
   componentDidMount: function() {
