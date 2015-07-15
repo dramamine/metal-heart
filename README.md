@@ -34,6 +34,28 @@ blog/content/themes/CodeIonic
 - Save to devel and work there: `cp content/data/ghost.db content/data/ghost-dev.db`
 - `npm start`
 
+The `blog` folder is not really tracked (just changes I made), so to get up and running from scratch after you've cloned this repo:
+
+### initialize
+git clone https://github.com/TryGhost/Ghost.git blog
+cd blog
+npm install
+grunt init
+### pull in my own changes
+git reset --hard HEAD
+
+### theme I'm using
+cd blog/content/themes
+git clone https://github.com/sumitjaju/GhostThemes.git
+mv GhostThemes/CodeIonic ./
+rm GhostThemes
+
+### copy your production content over
+scp root@metal-heart.org:/var/www/blog/content/data/ghost.db content/data/
+cp content/data/ghost.db content/data/ghost-dev.db
+npm start
+
+
 ## Make changes locally, deploy on ocean
 ### Git-committed changes
 ```
@@ -41,6 +63,10 @@ ocean
 cd /var/www
 git pull
 ```
+
+### Any old changes
+```
+rsync -a blog/content/themes root@metal-heart.org:/var/www/blog/content/themes
 
 ### Assets
 rsync -a --ignore-existing blog/content/images/* root@metal-heart.org:/var/www/blog/content/images/
