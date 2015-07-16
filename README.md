@@ -44,6 +44,12 @@ grunt init
 ### pull in my own changes
 git reset --hard HEAD
 
+### Soundmanager2 for playing mp3s on mylifeismetal posts
+bower install soundmanager2
+cp bower_components/soundmanager2/script/soundmanager2-nodebug-jsmin.js assets/js/soundmanager2.js
+cp bower_components/soundmanager2/swf/soundmanager2_flash9.swf assets/swf/
+cp bower_components/soundmanager2/swf/soundmanager2.swf assets/swf/
+
 ### theme I'm using
 cd blog/content/themes
 git clone https://github.com/sumitjaju/GhostThemes.git
@@ -64,9 +70,10 @@ cd /var/www
 git pull
 ```
 
-### Any old changes
+### Random changes
 ```
-rsync -a blog/content/themes root@metal-heart.org:/var/www/blog/content/themes
+rsync -a blog/content/themes/* root@metal-heart.org:/var/www/blog/content/themes
+rsync -a assets/* root@metal-heart.org:/var/www/blog/static
 
 ### Assets
 rsync -a --ignore-existing blog/content/images/* root@metal-heart.org:/var/www/blog/content/images/
