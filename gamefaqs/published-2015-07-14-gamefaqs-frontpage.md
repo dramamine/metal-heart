@@ -1,4 +1,5 @@
-```
+
+
 
 |ARCADE GAMES|
 |-|
@@ -10,7 +11,7 @@
 |-|
 |Confidential Mission|FAQ/Walkthrough|07/03/01|1.1|63K|
 |Mr. Driller|FAQ/Walkthrough|01/31/01|1.0|36K|
-|Official Dreamcast Magazine #1|Demo Disc FAQ  05/25/01|3.3|125K|
+|Official Dreamcast Magazine #1|Demo Disc FAQ|05/25/01|3.3|125K|
 |Rayman 2: The Great Escape|FAQ/Walkthrough|03/26/01|1.3|54K|
 |Skies of Arcadia|Pinta's Quest VMU FAQ|03/08/01|1.7|21K|
 |Sonic Adventure|Light Chao Guide|06/30/00|1.6|27K|
@@ -56,4 +57,3 @@
 |Neutopia|FAQ/Walkthrough|04/30/01|1.1|25K|
 |Neutopia II|FAQ/Walkthrough|12/20/00|1.0|29K|
 
-```

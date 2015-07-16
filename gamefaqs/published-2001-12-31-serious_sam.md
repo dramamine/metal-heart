@@ -1,15 +1,22 @@
 ```
 ORIGINAL FAQ DATE: Saturday, March 24th, 2001
 
-           _____           _                    _____
-          / ____|         (_)                  / ____|
-         | (___   ___ _ __ _  ___  _   _ ___  | (___   __ _ _ __ ___
-          \___ \ / _ \ '__| |/ _ \| | | / __|  \___ \ / _` | '_ ` _ \
-          ____) |  __/ |  | | (_) | |_| \__ \  ____) | (_| | | | | | |
-         |_____/ \___|_|  |_|\___/ \__,_|___/ |_____/ \__,_|_| |_| |_|
-
+            ███████╗███████╗██████╗ ██╗ ██████╗ ██╗   ██╗███████╗    
+            ██╔════╝██╔════╝██╔══██╗██║██╔═══██╗██║   ██║██╔════╝    
+            ███████╗█████╗  ██████╔╝██║██║   ██║██║   ██║███████╗    
+            ╚════██║██╔══╝  ██╔══██╗██║██║   ██║██║   ██║╚════██║    
+            ███████║███████╗██║  ██║██║╚██████╔╝╚██████╔╝███████║    
+            ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝  ╚═════╝ ╚══════╝    
+                                                                     
+                        ███████╗ █████╗ ███╗   ███╗                  
+                        ██╔════╝██╔══██╗████╗ ████║                  
+                        ███████╗███████║██╔████╔██║                  
+                        ╚════██║██╔══██║██║╚██╔╝██║                  
+                        ███████║██║  ██║██║ ╚═╝ ██║                  
+                        ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝                  
+                                                         
                                [-----------------]
-		               [ FAQ/Walkthrough ]
+		                           [ FAQ/Walkthrough ]
                                [-----------------]
 
 Author       : JPaterson (original)
@@ -2043,9 +2050,9 @@ Shofield.
 -- Submitted by Jesse.
 
 2. Instead of going up the ramp, go down the ramp that is behind you. Once
-down, half turn right and head the way you�re supposed to go. You should come
+down, half turn right and head the way you’re supposed to go. You should come
 to a door. (The door is on the right side of the ramp) These guys with big
-heads will come representing the game�s programmers. Kill em, and then go down
+heads will come representing the game’s programmers. Kill em, and then go down
 the ramp for some gear.
 -- Submitted by Jesse.
 
@@ -2055,18 +2062,18 @@ rocket launcher on the next secret.
 
 4. At the starting point, go up the ramp, and then turn right. Jump on the
 ledge to the right of you and then jump up on the roof where the first secret
-was. You�ll find a rocket launcher.
+was. You’ll find a rocket launcher.
 -- Submitted by Jesse.
 
-5. Same as 4, but on the left side. You�ll find some rockets.
+5. Same as 4, but on the left side. You’ll find some rockets.
 -- Submitted by Jesse.
 
-6. Go down the ramp behind you. Go into the desert. You�ll encounter Bio-Mechs.
-You�ll find an oasis with awesome stuff.
+6. Go down the ramp behind you. Go into the desert. You’ll encounter Bio-Mechs.
+You’ll find an oasis with awesome stuff.
 -- Submitted by Jesse.
 
 7. The last secret is behind the temple. Go up the ramp at the start,
-turn right, and follow the temple�s perimeter you will eventually come to a
+turn right, and follow the temple’s perimeter you will eventually come to a
 wall. Part of it is darkened. Touch the darkened spot for a Double Barrel.
 -- Submitted by Jesse.
 
@@ -2262,10 +2269,10 @@ Total Guides: 4
 Croteam and the Croteam logo are trademarks of Croteam, Ltd.  Serious Sam
 and the Serious Sam logo are trademarks of Croteam, Ltd.  Serious Engine,
 Serious Editor and Serious Modeler are trademarks of Croteam, Ltd.
-Copyright � 2001 Croteam, Ltd.  All rights reserved.
+Copyright © 2001 Croteam, Ltd.  All rights reserved.
 
 Gathering of Developers and godgames are trademarks of Gathering of
-Developers, Inc.  Copyright � 2001 Gathering of Developers, Inc.  All
+Developers, Inc.  Copyright © 2001 Gathering of Developers, Inc.  All
 rights reserved.
 
 ===============================================================================
