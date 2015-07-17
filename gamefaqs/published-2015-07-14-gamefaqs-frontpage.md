@@ -1,59 +1,33 @@
 
+Video games, y'all!
+
+Yeah, I've played a lot of games in my day. I grew up putting a ton of time into NES and SNES games, a few of my favorites being Secret of Mana, Chrono Trigger, the Donkey Kong Country series, Mario 64, Final Fantasy 7, Persona 4, Quake II, Command & Conquer, and basically all rhythm games I can get my hands on. These days, I still follow gaming, but don't make so much time for it. I get pretty snobby about games and tend to dig games with something unique to them; something with good atmosphere, unique mechanics, etc. Indie games are more my thing than big-budget titles.
+
+---
+
+I've also produced a lot of gaming content in my day. This started a looong time ago, when I was a teenager. I loved the walkthrough/strategy guide site GameFAQs and started writing guides for them whenever I saw good opportunities to fill in gaps. A good handful of these guides were written to collect 'bounties', i.e. I'd get paid $20-50 for writing these guides - not a whole lot for the time I invested, but still, this was pretty cool to me before I was even legally allowed to work. Lots of these guides are crappy in retrospect, but...whatever! I'd spend a lot of time digging through games in an emulator, pushing boundaries everywhere, exploring the mechanics in exhausting detail to make sure I covered everything.
+
+I was super embarrassed about this phase of my life, especially in college! (You know, like, "oh I was such a loser, I would write these guides instead of going outside" or something.) In retrospect, dude, I was producing content instead of just consuming it! And I was helping people, even if the number of people I reached was low. These guides _still exist_, so theoretically people might read something I wrote when I was a teenager!
+
+Plus, I can make a pretty direct line between the skills I was developing then, and the programming skills I now use daily.
+
+My favorite story about these guides - late in my 20s, my siblings and I were playing through Rayman 2 for nostalgia, and I got totally stuck on the _first level_. Lazily, I looked up a walkthrough for the level. Sure enough, I saw a full guide written by me, SloDeth.
+
+[GameFAQs Contributor Page](http://www.gamefaqs.com/users/slodeth/contributions/faqs)
+[My Archive Copies (26 guides)](gamefaqs-index)
+
+---
+
+Going along with the 'fully exploring and totally breaking games' thing I got into via walkthroughs, I also got super interested in speedruns. The speedrunning scene was only in its infancy when I was a teenager - it's come a long way since then, via AGDQ and other communities - but I watched interesting ones and have produced a few myself.
+
+[2001: Spindizzy Worlds TAS](spindizzy-worlds-tas)
+[2015: bit Dungeon II Speedrun](bit-dungeon-ii-speedrun)
+
+---
+
+MOST IMPORTANTLY THOUGH, I've made some games! Hopefully this space will expand in the future:
+
+[2011: Trips - a web-based multiplayer card game](aob-games-trips)
 
 
-|ARCADE GAMES|
-|-|
-|Guitar Freaks|Guitar Tablature|10/13/01|1.2|46K|
-|Sichuan II|FAQ|08/25/01|1.0|11K|
-|Zoo Keeper|FAQ|08/21/01|1.0|24K|
-
-|DREAMCAST|
-|-|
-|Confidential Mission|FAQ/Walkthrough|07/03/01|1.1|63K|
-|Mr. Driller|FAQ/Walkthrough|01/31/01|1.0|36K|
-|Official Dreamcast Magazine #1|Demo Disc FAQ|05/25/01|3.3|125K|
-|Rayman 2: The Great Escape|FAQ/Walkthrough|03/26/01|1.3|54K|
-|Skies of Arcadia|Pinta's Quest VMU FAQ|03/08/01|1.7|21K|
-|Sonic Adventure|Light Chao Guide|06/30/00|1.6|27K|
-|The House of the Dead 2|FAQ/Walkthrough|09/08/00|1.6|24K|
-
-|GAME BOY|
-|-|
-|Picross 2|Solution Image Notes|06/15/01|
-
-|GENESIS|
-|-|
-|Exile|FAQ/Walkthrough|05/06/01|1.2|22K|
-|Spider-Man / X-Men: Arcade's Revenge|FAQ/Walkthrough|04/29/01|1.0|23K|
-|ToeJam & Earl in Panic on Funkotron|FAQ/Walkthrough|02/21/01|1.1|31K|
-|Traysia|FAQ/Walkthrough|05/11/01|1.0|21K|
-
-|NES|
-|-|
-|Bill & Ted's Excellent Video Game Adventure|FAQ/Walkthrough|06/05/01|1.2|15K|
-|Earthbound Beginnings|FAQ/Walkthrough|04/30/01|1.6|35K|
-
-|PC|
-|-|
-|Diablo II|Paladin Guide|08/01/01|Final|68K|
-|Serious Sam: The First Encounter|FAQ/Walkthrough|07/13/05|Final|109K|
-|The Sims: Livin' Large|FAQ|02/18/01|1.2|20K|
-
-|SATURN|
-|-|
-|Astal|FAQ/Walkthrough|09/02/01|1.1|30K|
-
-|SEGA MASTER SYSTEM|
-|-|
-|ALF|FAQ/Walkthrough|09/02/01|1.0|15K|
-
-|SUPER NINTENDO|
-|-|
-|Spider-Man / X-Men: Arcade's Revenge|FAQ/Walkthrough|04/29/01|1.0|23K|
-|The Simpsons: Bart's Nightmare|FAQ/Walkthrough|04/24/01|1.1|23K|
-
-|TURBOGRAFX-16|
-|-|
-|Neutopia|FAQ/Walkthrough|04/30/01|1.1|25K|
-|Neutopia II|FAQ/Walkthrough|12/20/00|1.0|29K|
 
