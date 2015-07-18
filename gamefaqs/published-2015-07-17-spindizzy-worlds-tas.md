@@ -14,28 +14,28 @@ This is a fluid run through Spindizzy Worlds on the Spindizzy cluster and on Adv
 
 These are the total times for each level:
 
-Beginner - .45
-Pak Attack - 1.57
-Buxton Cat - 1.30
-Sandy Island - .21
-WaterWorks - 1.11
-Pyramidea - 1.24
-Tri Path - 1.07
-Ballrace - .28
-Castle Quest - .57
-Frigia - 1.09
-Roller-ama - .46
-Arrow Maze - .51
-Grass Hopper - 1.18
-Tower City - 1.05
-Grass Maze - 1.00
-Canal Side - .49
-WaterWorld - 1.04
-MisDirection - 1.22
-Oily Way - 1.15
-Torture! - 1.13
-RADIMA - 1.30
-Obelisk Run - 1.39
+* Beginner - .45
+* Pak Attack - 1.57
+* Buxton Cat - 1.30
+* Sandy Island - .21
+* WaterWorks - 1.11
+* Pyramidea - 1.24
+* Tri Path - 1.07
+* Ballrace - .28
+* Castle Quest - .57
+* Frigia - 1.09
+* Roller-ama - .46
+* Arrow Maze - .51
+* Grass Hopper - 1.18
+* Tower City - 1.05
+* Grass Maze - 1.00
+* Canal Side - .49
+* WaterWorld - 1.04
+* MisDirection - 1.22
+* Oily Way - 1.15
+* Torture! - 1.13
+* RADIMA - 1.30
+* Obelisk Run - 1.39
 
 The final level, Spindizzy!, does not report a final time. It takes 3.47, but game time does not include loading time, so it is significantly less than this.
 
