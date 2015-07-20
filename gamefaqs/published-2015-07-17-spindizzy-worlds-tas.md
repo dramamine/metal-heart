@@ -8,7 +8,7 @@ Ahh, I remember sinking a ton of time into this one summer! In retrospect I did 
 I don't know if it's that much fun to watch if you haven't played the game before. This game is like a puzzle version of Marble Madness. The music's pretty awesome IMO.
 
 ---
-![youtube video]()
+https://archive.org/details/spindizzy_worlds_2441_measuredincm
 
 This is a fluid run through Spindizzy Worlds on the Spindizzy cluster and on Advanced Mode. It is not a strict speedrun - sometimes liberties are taken, to avoid enemies and such. The character does fall off the board in bonus rounds to save time, and crashes (in two levels) to save time.
 

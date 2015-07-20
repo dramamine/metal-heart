@@ -1,4 +1,4 @@
-
+# bit Dungeon II Speedrun (26:36)
 
 ---
 2015 Notes:
@@ -17,7 +17,7 @@ I set my goals low for this run - I wasn't trying to get the _best time ever_, o
 
 ---
 
-![youtube video](https://www.youtube.com/watch?v=9s5NjnTtINE)
+https://www.youtube.com/watch?v=9s5NjnTtINE
 
 Hi! This is my first attempt at speedrunning. I love watching speedruns - been watching since Quake Done Quick, and binge on AGDQ and SGDQ each year. I've always been intimidated by the time, dedication, and skill of the top speedrunners. But after playing this game, I decided to "just do it" and it ended up being the most fun I've had playing any game in a long time! This was a perfect newcomer game and I loved thinking about all the micro-optimizations I could make to the run.
 
