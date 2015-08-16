@@ -11,7 +11,7 @@ If I had to scream about my own problems these days, I'd scream about a sink ful
 
 **LETLIVE.** is a new discovery to me, on their third album by now. They're a post-hardcore group (Q: what is post-hardcore? A: think of the abrasive sound of 80s hardcore, funnelled into actual songs with melodies) from LA, that are masters at crafting catchy, vitriol-fueled tunes. After a couple spins through "The Blackest Beautiful", I found myself humming along to choruses in nearly every song. And then singing. And then screaming.
 
-[Letlive. - Empty Elvis](../static/mp3/02-Empty-Elvis.mp3)
+[Letlive. - Empty Elvis](/assets/mp3/02-Empty-Elvis.mp3)
 
 I seriously love this guy's voice. The whole band exists in a realm between the beautiful screams of The Blood Brothers and the melodic howls of Glassjaw. Although maybe Men Women & Children is a better comparison than Glassjaw, considering the high notes this guy can hit. Yep, these are some of my favorite bands. Letlive. do this pretty unique thing where the voices are usually doubled, tripled even, while the guitars are pushed to the back of the mix. Sure, I love riffs, but this sounds fuckin' ace.
 

@@ -10,7 +10,7 @@ Here's a screamo legend for ya.
 
 **JEROMES DREAM** were a short-lived screamo band from Connecticut. 
 
-[Jeromes Dream - I Won't Stop Wondering Until You Stop Breathing](../static/mp3/06-i-wont-stop-wondering-until-you-stop-breathing.mp3)
+[Jeromes Dream - I Won't Stop Wondering Until You Stop Breathing](/assets/mp3/06-i-wont-stop-wondering-until-you-stop-breathing.mp3)
 
 
 This post won't make any sense until you click Play.

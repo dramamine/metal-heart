@@ -10,6 +10,6 @@ But at least it's something you can song-drop in your playlists to make them ins
 I kind of liked them better when they were instrumental, though. Because seriously, when I want to hear something that's just ripping off Meshuggah anyway, I'll usually put on something instrumental like Cloudkicker:
 
 ![mlim-cover](folder2.jpg)
-[Cloudkicker - #](../static/mp3/01-.mp3)
+[Cloudkicker - #](/assets/mp3/01-.mp3)
 
 It takes about 3 min to get to the djenty part. You know, the syncopated rhythms and "wait this is really 4/4 but why do the time signatures feel so weird?" part. Meshuggah invented that feeling. But that doesn't mean I can't listen to 100 other bands trying to get it right.

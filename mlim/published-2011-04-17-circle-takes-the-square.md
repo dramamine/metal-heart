@@ -7,7 +7,7 @@ tags:
 What does screamo mean to u?
 ![mlim](/content/images/ctts-band.jpg "Circle Takes The Square live")
 
-[Circle Takes the Square - In The Nervous Light Of Sunday](../static/mp3/04-in-the-nervous-light-of-sunday.mp3)
+[Circle Takes the Square - In The Nervous Light Of Sunday](/assets/mp3/04-in-the-nervous-light-of-sunday.mp3)
 
 Screamo is one of my favorite genres because it's so dynamic. There are all these softer parts that give you a quick break from all the noise, then they keep hitting you with these really abrasive riffs. Their drummer is INSANE - can't believe how fast and accurate it is. This band is closer to grindcore than any other genre (yeah, it's that intense).
 
