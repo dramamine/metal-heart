@@ -4,7 +4,7 @@ Sometimes you're just not looking for anything deep. Sometimes you just need som
 
 ![mlim-cover](1319197641_61vz9jyuf8l.jpg "What&#039;s your favorite arithmetic symbol?")
 [Structures - At Las(T)](../static/mp3/01-structures-at_last.mp3)
-[Structures - Hydroplaning](../static02-structures-hydroplaning.mp3)
+[Structures - Hydroplaning](../static/mp3/02-structures-hydroplaning.mp3)
 
 Is deathcore okay to like? I'm here to tell you it is. I mean, if you accept its existence, this is **TECH-DEATHMO**.
 

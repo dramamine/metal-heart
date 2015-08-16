@@ -13,7 +13,7 @@ Plus, this band used to be heavier. Check out this piece of pure sludge from the
 
 ![mlim-cover](/content/images/atlas-moth-glorified "Atlas Moth - A Glorified Piece of Blue Sky")
 
-[The Atlas Moth - Grey Wolves](../static/mp3/03-grey-wolves1.mp3)
+[The Atlas Moth - Grey Wolves](../static/mp3/03-grey-wolves.mp3)
 
 I mean, I’m torn. I don’t want to say, “Oh, you guys should’ve kept making that album”. Also, maybe they didn’t want people saying that they were ripping off Neurosis or some other band like that. Which they’re not! God, that whole album was sweet, actually. Grey Wolves kicks ass, too. Our Sun, Our Saviour ends with some crushing, super-dense riffage - the perfect way to cap off a song.
 
