@@ -9,11 +9,11 @@ But they're not. They fucking rock.
 
 ![mlim-cover](/content/images/disturbed-sickness.jpg "Tha Siknezz")
 
-[(2000) Disturbed - The Game](../static/mp3/02-the-game.mp3)
+[(2000) Disturbed - The Game](/assets/mp3/02-the-game.mp3)
 
 Okay, let's just hit Play on "The Sickness". These guys are professional. I hesitate to call this nu-metal, because it's industrial metal at its roots. The drumming is mechanical and precise; there are synths all over the place; the guitars are heavy but clean. That guitar riff in "The Game" sounds a whole lot like early-90s **KMFDM**, yeah?! These guys are pretty comfortable with their songs and can transition from pounding industrial beats, to balls-to-the-wall heaviness, to jazzy bridges, to breakdowns.
 
-[(2000) Disturbed - Numb](../static/mp3/07-numb.mp3)
+[(2000) Disturbed - Numb](/assets/mp3/07-numb.mp3)
 
 "Numb" is a **TOOL** song, btw. Skip to around 2:53 and you'll notice the ending is exactly like, idunno, Opiate-era riffs combined with the verbs of "Pushit". Maybe it's unfair to pretend like Tool is the only band that ends a song by doubling their picking speed over the same riffs, and playing fuller, more intense drums. Maybe it's unfair to act like Tool is the only band that can start a heavy song out with ominous darkness, building to a climax at the end. But seriously, the Tool influence is undeniable.
 

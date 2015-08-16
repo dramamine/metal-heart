@@ -3,7 +3,7 @@
 **OCEANSIZE** was a great progressive metal band that broke up last week. When you think of "bands that Tool obviously influenced", these guys should come up. The basic structure of an Ocensize song is, themes slowly develop over the course of a song, building up to an epic climax. Hmm, so is this post-metal? Because that's exactly what happens in a post-rock song, so they took that formula and added distortion. Anyway, it's that with sung vocals. If you like Dredg, you will probably like this.
 
 They put out two albums that were quite good. Here are my favorite songs from each:
-[Oceansize - The Charm Offensive](../static/mp3/01-the-charm-offensive.mp3)
+[Oceansize - The Charm Offensive](/assets/mp3/01-the-charm-offensive.mp3)
 ![mlim-cover](/content/images/oceansize-everyone-into-position.jpg "Oceansize - Everyone Into Position (2005)")
 This song has the same structure as Tool's "Pushit" or "Eulogy", for example - verses and choruses for awhile, then BAM, epic ending, usually with lots of screaming and loud riffs. The reason I enjoy tracks like this is that they'll just be playing in the background, gaining my acquiescence, then they'll grab my attention in a flash. "Why is this awesome?" I don't know, I wasn't really paying attention! I'll have to re-listen to the songs just to get the nuances I missed the first time.
 

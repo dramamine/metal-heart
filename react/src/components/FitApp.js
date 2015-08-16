@@ -5,7 +5,6 @@ var dom = React.DOM;
 var jQuery = require('jquery');
 
 
-
 // CSS
 require('normalize.css');
 require('../styles/fit.css');
@@ -13,7 +12,18 @@ require('../styles/fit.css');
 
 var Tab = React.createClass({
 
+  // this function is not really necessary, but is generally useful...
+  // see also 'propTypes' for props validation
+  getDefaultProps: function() {
+    return {
+      title: '',
+      data: null
+    };
+  },
+
   render: function() {
+
+    // this renders on inital load
     if( this.props.data === null )
     {
       return (
@@ -45,11 +55,13 @@ var Tab = React.createClass({
 
 var FitApp = React.createClass({
 
+  // click handler. use 'setState', never change state directly!
   handleClick: function(name) {
     this.setState({selectedItem: name});
     return false;
   },
 
+  // function that runs after component is loaded
   componentDidMount: function() {
     jQuery.ajax({
       url: '../static/pix.json',
@@ -70,13 +82,17 @@ var FitApp = React.createClass({
   },
 
   render: function() {
+
+    // this renders on initial load
     if( this.state.data === null )
     {
       return (<div>Loading...</div>);
     }
 
+    // callback function needs outside reference to 'this'
     var self = this;
 
+    // I used JS instead of JSX here, for fun!
     function tab(name) {
       return dom.li({
         className: self.state.selectedItem === name ? 'active' : ''},
@@ -110,7 +126,7 @@ var FitApp = React.createClass({
 
 });
 
-
+// render content!
 React.render(<FitApp />, document.getElementById('content')); // jshint ignore:line
 
 module.exports = FitApp;
