@@ -5,7 +5,7 @@ tags:
 
 **COG** wanted to be the Australian version of *TOOL*.
 
-![mlim-cover](folder8.jpg)
+![mlim-cover](/content/images/cog-new-normal.jpg)
 
 [(2005) Cog - Doors (Now And Then My Life Feels Like It's Going Nowhere)](/assets/mp3/10-doors-now-and-then-my-life-feels-like-its-going-nowhere.mp3)
 
@@ -17,7 +17,7 @@ Instead, of a sweet logo, **COG** opted to get their own Serif font I guess.
 
 I had pretty high hopes for their next album after "The New Normal". The first single that leaked was pretty epic, and if you had asked me at the time, I would've told you about how ***Cog*** were crafting a new version of activist rock. Getting political with your music is a high-risk, high-reward action, but hell, <a href="http://mylifeismetal.com/?p=397">who needs one more love song</a>?
 
-![mlim-cover](/content/images/cog-what-if.jpg)
+![mlim-cover](/content/images/cog-sharing-space.jpg)
 [(2008) Cog - What If](/assets/mp3/04-what-if.mp3)
 
 The album came out and was totally lame; none of the songs had the same energy as "What If"...and none of them were as loud as the old **COG**.

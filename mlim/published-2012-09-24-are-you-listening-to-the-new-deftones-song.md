@@ -1,6 +1,6 @@
 # Are You Listening To The New Deftones Song?
 
-![mlim-cover](+images.png "Koi No Yokan")
+![mlim-cover](/content/images/deftones-koi.jpg "Koi No Yokan")
 Like I am? Over and over, 10x on repeat?
 
 [Deftones - Leathers](/assets/mp3/03-deftones-leathers.mp3)

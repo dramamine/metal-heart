@@ -1,7 +1,7 @@
 # New Crystal Castles Album!
 
-![mlim-cover](CC.jpg "Crystal Castles")
-**CRYSTAL CASTLES**! Oh god, [these guys are good live](http://www.welovedc.com/2011/03/18/we-love-music-crystal-castles-930-club-31511/ "a review I wrote of their live show circa 2011"). Who doesn't have a crush on Alice Glass?? LIAR, DON'T LIE.
+![mlim-cover](/content/images/CC.jpg "Crystal Castles")
+**CRYSTAL CASTLES**! Oh god, [these guys are good live](/we-love-music-crystal-castles-930-club/ "a review I wrote of their live show circa 2011"). Who doesn't have a crush on Alice Glass?? LIAR, DON'T LIE.
 
 Their first album was pretty unique at the time; fat bass, Nintendo bleeps and bloops, lo-fi distorted vocals. It's pretty experimental, as well; just all over the goddamn place. It's dystopian dance music. Since then, their music has become more focused; still creepy, but less jarring.
 

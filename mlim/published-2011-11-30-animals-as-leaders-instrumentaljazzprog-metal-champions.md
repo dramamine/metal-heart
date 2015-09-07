@@ -13,7 +13,7 @@ Their guitarist Tobin Abasi plays a custom 8-string guitar because six strings w
 This video showcases their musicianship, yet is also 'artsy' in that Tool-inspired, whatthefuckisgoingon way. That's exactly what I want from metal videos. Music videos in general, really.
 
 I saw AAL open for **THURSDAY** and **UNDEROATH** earlier this year. Everyone left the show talking about AAL because they were so unexpectedly amazing. Anyway, their new album Weightless is one of my favorites of the year, so without further ado, here's the heaviest song:
-![mlim-cover](animals_as_leaders_4.jpg "this ain&#039;t the cover art, but it looks fucking cool.")
+![mlim-cover](/content/images/aal.jpg)
 
 [Animals as Leaders - New Eden](/assets/mp3/07.-New-Eden.mp3)
 

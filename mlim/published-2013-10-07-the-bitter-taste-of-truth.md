@@ -7,7 +7,7 @@ As I grow up, the more I realize that my problems hardly amount to anything. My 
 
 If I had to scream about my own problems these days, I'd scream about a sink full of dirty dishes. I'd scream about how my dating life keeps cutting into my beauty rest. I'd scream about how my kitten keeps on knocking things over. So when I scream, I gotta borrow words.
 
-![mlim-cover](/content/images/The-Blackest-Beautiful.png "Letlive. - The Blackest Beautiful")
+![mlim-cover](/content/images/letlive-blackest-beautiful.jpg "Letlive. - The Blackest Beautiful")
 
 **LETLIVE.** is a new discovery to me, on their third album by now. They're a post-hardcore group (Q: what is post-hardcore? A: think of the abrasive sound of 80s hardcore, funnelled into actual songs with melodies) from LA, that are masters at crafting catchy, vitriol-fueled tunes. After a couple spins through "The Blackest Beautiful", I found myself humming along to choruses in nearly every song. And then singing. And then screaming.
 

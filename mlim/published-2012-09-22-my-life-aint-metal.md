@@ -14,7 +14,7 @@ What I really want to know is this.
 I listen to some really chill, quiet stuff to help me unwind sometimes. The song I'd like to share with you is this:
 
 
-![mlim-cover](Total-Loss-300x300.png "Total Loss")
+![mlim-cover](/content/images/htdw-total-loss.jpg "Total Loss")
 
 [How to Dress Well - Cold Nites](/assets/mp3/02-Cold-Nites.mp3)
 

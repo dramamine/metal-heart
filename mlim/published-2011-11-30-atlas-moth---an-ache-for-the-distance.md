@@ -1,6 +1,6 @@
 # Atlas Moth - An Ache for the Distance
 
-![mlim-cover](/cover/images/atlas-moth-ache.jpg "Atlas Moth - An Ache for the Distance")
+![mlim-cover](/content/images/atlas-moth-ache.jpg "Atlas Moth - An Ache for the Distance")
 
 Brandon Stosuy liked this album a lot, giving it the #26 slot on [http://pitchfork.com/features/show-no-mercy/8717-best-albums-of-2011/](Pictchfork's Top 40 Metal Albums of 2011) list. We agree that this is the best song:
 [The Atlas Moth - Holes in the Desert](/assets/mp3/03-holes-in-the-desert.mp3)
@@ -11,7 +11,7 @@ I’ve been listening to this album a whole lot lately, trying to figure out how
 
 Plus, this band used to be heavier. Check out this piece of pure sludge from their debut album!
 
-![mlim-cover](/content/images/atlas-moth-glorified "Atlas Moth - A Glorified Piece of Blue Sky")
+![mlim-cover](/content/images/atlas-moth-glorified.jpg "Atlas Moth - A Glorified Piece of Blue Sky")
 
 [The Atlas Moth - Grey Wolves](/assets/mp3/03-grey-wolves.mp3)
 

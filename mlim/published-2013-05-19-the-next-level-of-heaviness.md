@@ -4,7 +4,7 @@ tags: altar of plagues
 Before we get started, I'd like to make a note that I am the first person who noticed the similarity between these two album covers:
 
 ![mlim-cover](/content/images/raime-quarter-turns.jpg "Quarter Turns")
-![mlim-cover](/content/images/Altar-of-Plagues-Teethed-Glory-Injury.jpg "Teethed Glory")
+![mlim-cover](/content/images/altar-of-plagues-teethed-glory.jpg "Teethed Glory")
 
 ...well, I made this connection as soon as I saw the **ALTAR OF PLAGUES** cover. Then I got mentioned [in this review](http://www.metalireland.com/2013/04/21/altar-of-plagues-teeth-glory-and-injury/). Which is strange, because I told nobody that I noticed this.
 

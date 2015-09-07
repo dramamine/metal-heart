@@ -10,7 +10,7 @@ This question is a fucking landmine. There are so many variations on wrong answe
     "I don't care, as long as you can dance to it."
 
 
-![mlim-cover](ira-glass.jpg)
+![mlim-cover](/content/images/ira-glass.jpg)
 <em>one of the above quotes is real</em>
 
 I used to think there were specific 'favorite bands' that would instantly disqualify people from dating me. But you know what? It doesn't matter, because your favorite band sucks. It's going to suck, that's a given. I've got ways to trash-talk your favorite band. "Not loud enough for my tastes", obviously. "I liked it better when [x band] invented that style", ooosickburn.

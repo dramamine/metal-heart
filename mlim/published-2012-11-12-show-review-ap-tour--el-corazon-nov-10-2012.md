@@ -1,6 +1,6 @@
 # Show Review: AP Tour @ El Corazon, Nov 10 2012
 
-![mlim-cover](The+Royal+Thousand+cover.png "The Royal Thousand")
+![mlim-cover](/content/images/glass-cloud-royal-thousand.jpg "The Royal Thousand")
 tl;dr: Metalcore is really easy to make fun of, because it ain't true metal. Also, forgive any sexism in this post, we need more women in metal, even if they have to grow up with fucking metalcore.
 
 **GLASS CLOUD**: this band is the only reason I went to this show. Why did they have to end their set at 6:25pm, when the _doors were listed as being at 7pm?_ So lame.

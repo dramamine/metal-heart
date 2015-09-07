@@ -1,6 +1,6 @@
 # Is This Album Cover Metal Enough?
 
-![mlim-cover](coverart_image.jpg "Gorod - A Perfect Absolution")
+![mlim-cover](/content/images/gorod-absolution.jpg "Gorod - A Perfect Absolution")
 
 Jesus Christ.
 

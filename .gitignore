@@ -14,3 +14,4 @@ pinnastorm/images/
 README-digital-ocean-ghost.md
 bower_components/
 node_modules/
+.DS_Store

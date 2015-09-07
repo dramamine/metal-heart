@@ -4,7 +4,7 @@ Krallice has been chugging along for a few years now, cranking out a distinctive
 
 That's not to say it's necessarily BAD because of this; self-restrictions lead them to a unique sound that's still ultra-heavy, and it helps that these guys are extremely talented musicians playing at blazing-fast speed. I just couldn't really get into them until I heard all the sick riffs on Years Past Matter.
 
-![mlim-cover](1696978733-1.jpg "Krallice - Years Past Matter")
+![mlim-cover](/content/images/krallice.jpg "Krallice - Years Past Matter")
 
 Krallice didn't want to have distinctive track names, either. Hope you're good at counting. Here's my favorite track, with 9 Is, or as I like to call it, "Track 3":
 

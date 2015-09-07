@@ -2,7 +2,7 @@
 
 Sometimes you're just not looking for anything deep. Sometimes you just need some good riffs and stupid lyrics and quick, fast songs to get your fix and get on with your day. Some days are perfect for Structures.
 
-![mlim-cover](/1319197641_61vz9jyuf8l.jpg "What&#039;s your favorite arithmetic symbol?")
+![mlim-cover](/content/images/structures-divided-by.jpg "What&#039;s your favorite arithmetic symbol?")
 [Structures - At Las(T)//assets/mp3/01-structures-at_last.mp3)
 [Structures - Hydroplaning//assets/mp3/02-structures-hydroplaning.mp3)
 
