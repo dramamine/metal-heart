@@ -3,8 +3,8 @@
 Sometimes you're just not looking for anything deep. Sometimes you just need some good riffs and stupid lyrics and quick, fast songs to get your fix and get on with your day. Some days are perfect for Structures.
 
 ![mlim-cover](/content/images/structures-divided-by.jpg "What&#039;s your favorite arithmetic symbol?")
-[Structures - At Las(T)//assets/mp3/01-structures-at_last.mp3)
-[Structures - Hydroplaning//assets/mp3/02-structures-hydroplaning.mp3)
+[Structures - At Las(T)](/assets/mp3/01-structures-at_last.mp3)
+[Structures - Hydroplaning](/assets/mp3/02-structures-hydroplaning.mp3)
 
 Is deathcore okay to like? I'm here to tell you it is. I mean, if you accept its existence, this is **TECH-DEATHMO**.
 
