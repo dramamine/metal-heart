@@ -34,6 +34,7 @@ I'd like to handle this stuff consistently, but I'm still puzzling on what to do
 - bad build scripts. this is actually a longcut since my client/server are never in sync. server makefile pulls new files and restarts the server, but so many tasks need to be automated, like updating ghost versions, syncing static assets and (maybe) installing local edits to the server
 - weird git structure. `blog` should be a submodule...or maybe this whole thing should be a fork of `ghost`...this would make updates clearer and less prone to breakage
 - this theme kinda sucks and part of me knows I should write my own theme from scratch and really learn CSS architecture
+- terrible logging. server logs are somewhere in pm2 but pm2 crashes sometimes for mysterious reasons, and I don't know if things are 404ing on my blog
 
 # ghost-export Modifications
 blog/ghost-export/
