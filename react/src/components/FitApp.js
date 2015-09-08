@@ -64,7 +64,7 @@ var FitApp = React.createClass({
   // function that runs after component is loaded
   componentDidMount: function() {
     jQuery.ajax({
-      url: '../static/pix.json',
+      url: '../data/pix.json',
       dataType: 'json',
       cache: false,
       success: function(data) {
