@@ -10,21 +10,21 @@ I just read Nick Hornby’s classic novel, _High Fidelity_.  And re-watched the 
 
 ---
 
-You know why there’s a whole mess of 40somethings hooking up on Facebook? It’s not because their kids are on it and they want to be “cool.” It’s because even after decades, they still want to keep tabs on, and maybe check in with, their exes.
+> You know why there’s a whole mess of 40somethings hooking up on Facebook? It’s not because their kids are on it and they want to be “cool.” It’s because even after decades, they still want to keep tabs on, and maybe check in with, their exes.
 
-Just like me.
+> Just like me.
 
-I start at the beginning, with Alison. Location: Australia. Married with kids, blah blah. I decide to friend-request her, just to see if she’ll remember my name. My request is met with silence — it’s pretty clear to me that a few hours under the bleachers in high school didn’t leave her with a lasting impression of me.
+> I start at the beginning, with Alison. Location: Australia. Married with kids, blah blah. I decide to friend-request her, just to see if she’ll remember my name. My request is met with silence — it’s pretty clear to me that a few hours under the bleachers in high school didn’t leave her with a lasting impression of me.
 
-Somehow Charlie isn’t even on Facebook. Granted, she was techno-phobic when we dated — I was lucky she even had a cell phone. I type her name into Google, but the only trace of her I find is a flier for an exhibition of hers, from some Photoshop class she took sophomore year. There’s no contact info or anything, and I’m sure the exhibit is long gone by now.
+> Somehow Charlie isn’t even on Facebook. Granted, she was techno-phobic when we dated — I was lucky she even had a cell phone. I type her name into Google, but the only trace of her I find is a flier for an exhibition of hers, from some Photoshop class she took sophomore year. There’s no contact info or anything, and I’m sure the exhibit is long gone by now.
 
-I friend-request Jackie, and she accepts right away. It’s actually kind of frightening that someone would open up so much to me, just because I clicked a button on a webpage.  Literally the minimum amount of effort possible. Even easier than, you know opening my mouth to ask you a question.
+> I friend-request Jackie, and she accepts right away. It’s actually kind of frightening that someone would open up so much to me, just because I clicked a button on a webpage.  Literally the minimum amount of effort possible. Even easier than, you know opening my mouth to ask you a question.
 
-Facebook is the equivalent of running into someone who upon meeting you, immediately starts talking your ear off. So, Jackie, what have you been up to? Oh great, lots of cute messages from Phil... lots of “happy birthday!! how are the kids?”... nothing remotely interesting. I start browsing through her photos... Jackie and Phil... Jackie and the kids at the zoo... ’glamour’ shots of Jackie and the kids in a park...
+> Facebook is the equivalent of running into someone who upon meeting you, immediately starts talking your ear off. So, Jackie, what have you been up to? Oh great, lots of cute messages from Phil... lots of “happy birthday!! how are the kids?”... nothing remotely interesting. I start browsing through her photos... Jackie and Phil... Jackie and the kids at the zoo... ’glamour’ shots of Jackie and the kids in a park...
 
-After browsing through dozens of pictures of your kids, I start to wonder, how deep do I have to dig to find a picture of you out at a bar? At a concert? You used to be fun. When was the last time you went out, Jackie?
+> After browsing through dozens of pictures of your kids, I start to wonder, how deep do I have to dig to find a picture of you out at a bar? At a concert? You used to be fun. When was the last time you went out, Jackie?
 
-Of course, those aren’t the kinds of questions you can just post on someone’s wall.  “All-time top five desert-island albums,” sure.  “Are you really such a sad sap in real life,” not so much.
+> Of course, those aren’t the kinds of questions you can just post on someone’s wall.  “All-time top five desert-island albums,” sure.  “Are you really such a sad sap in real life,” not so much.
 
 ---
 
@@ -54,13 +54,13 @@ Barry stares straight at me, rage and/or embarrassment growing in his eyes.
 
 He throws his middle fingers in the air and stomps out of the shop.
 
-~~~~~
+---
 
-I call her all the time. I call her at the office. I call her after work. She never answers.  After the first call, it was pretty obvious that she had Caller ID and decided to ignore me permanently. So I tried calling from pay phones. What do those show up as? UNKNOWN CALLER? PAY PHONE? I guess this is better than STALKY EX-BOYFRIEND. Still, she wasn’t answering.
+> I call her all the time. I call her at the office. I call her after work. She never answers.  After the first call, it was pretty obvious that she had Caller ID and decided to ignore me permanently. So I tried calling from pay phones. What do those show up as? UNKNOWN CALLER? PAY PHONE? I guess this is better than STALKY EX-BOYFRIEND. Still, she wasn’t answering.
 
-I started texting her. At least that way, I knew she would read what I had to say. You practically HAVE to read a text before you delete it anyway, right? Plus, I had called so many times, hearing her voicemail message over and over, that I expected nothing but the machine. If Laura had actually answered, I wouldn’t have had anything to say. Texting at least gave me focus.
+> I started texting her. At least that way, I knew she would read what I had to say. You practically HAVE to read a text before you delete it anyway, right? Plus, I had called so many times, hearing her voicemail message over and over, that I expected nothing but the machine. If Laura had actually answered, I wouldn’t have had anything to say. Texting at least gave me focus.
 
-Well, it did at first. I got pretty good at composing 160 characters of relationship angst. How’s this one? 10:03am: “Hi Laura. How are you? I didn’t really like the way we left things last time. Do you think we could get together and discuss things over a pint? c u soon xoxo.” Or 1:35am: “ARE YOU SLEEPING WITH HIM RIGHT NOW? Hope I didn’t interrupt anything. Actually, I hope I did.” Ha ha. Of course, by the time I had sent around a hundred text messages, I didn’t even have the will to compose real messages. 12:35pm: “:-(  :-(  :-(  :-( :’-(” 2:00pm: “Ian=shit.” I was just texting to be a small part of her life, even if it was a part that was making her feel sorry or guilty or scared or angry. It didn’t matter. Hell, it only cost me ten cents per message.
+> Well, it did at first. I got pretty good at composing 160 characters of relationship angst. How’s this one? 10:03am: “Hi Laura. How are you? I didn’t really like the way we left things last time. Do you think we could get together and discuss things over a pint? c u soon xoxo.” Or 1:35am: “ARE YOU SLEEPING WITH HIM RIGHT NOW? Hope I didn’t interrupt anything. Actually, I hope I did.” Ha ha. Of course, by the time I had sent around a hundred text messages, I didn’t even have the will to compose real messages. 12:35pm: “:-(  :-(  :-(  :-( :’-(” 2:00pm: “Ian=shit.” I was just texting to be a small part of her life, even if it was a part that was making her feel sorry or guilty or scared or angry. It didn’t matter. Hell, it only cost me ten cents per message.
 
 ---
 

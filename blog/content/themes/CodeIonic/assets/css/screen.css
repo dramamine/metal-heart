@@ -79,7 +79,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 ol, ul {
     padding-left: 3rem;
-    font-weight: 300;
+    font-weight: 400;
     color: #727983;
     font-family: Lato;
 }
@@ -193,7 +193,7 @@ pre {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     margin: 0 0 1.75em 0;
-    border: #e4e4e4 1px solid; 
+    border: #e4e4e4 1px solid;
     width: 100%;
     padding: 10px;
     font-family: Inconsolata, monospace, sans-serif;
@@ -340,7 +340,7 @@ body {
 
 /**ions**/
 .ion-navicon-round,
-.ion-ios-mic-outline, 
+.ion-ios-mic-outline,
 .ion-ios-flask-outline,
 .ion-social-apple-outline,
 .ion-coffee,
@@ -363,7 +363,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color:#8B8378;
-    font-size:14px;    
+    font-size:14px;
 }
 
 
@@ -553,7 +553,7 @@ button, input, select[multiple], textarea {
 }
 
 p {
-    font-weight: 300;
+    font-weight: 400;
 }
 
 img {
@@ -651,7 +651,7 @@ h6 {
 
 header.cover {
     margin-bottom: 0px;/* to be removed **/
-    margin-top: -20px; 
+    margin-top: -20px;
 }
 
 h3 {
@@ -665,7 +665,7 @@ h3 {
 
 .cta-sub {
     font-weight: 300;
-    font-family: "Lato;
+    font-family: "Lato";
     letter-spacing: 0em;
     font-size: 25px;
     color: #000;
@@ -997,16 +997,16 @@ code .prettyprint {
    ========================================================================== */
 
 @media only screen and (max-width: 950px) {
-    
+
     .row {
-        margin-left:-10px;    
+        margin-left:-10px;
     }
-    
+
     .cover .mobilelogo {
         display:block;
         text-align: center;
     }
-    
+
     .cover .mobilelogo img {
         max-width: 194px;
         height: 43px;
@@ -1015,47 +1015,47 @@ code .prettyprint {
         margin-top: 31px;
         margin-left: -61px;
     }
-    
-    .side-nav .logo a {      
-        display: none;    
+
+    .side-nav .logo a {
+        display: none;
     }
 
     .side-nav nav {
-        display: none;        
+        display: none;
     }
-    
+
     .container {
-        max-width:600px; 
+        max-width:600px;
         margin-top:0;
     }
-    
+
     .main-pane {
-        width:100%;    
+        width:100%;
     }
-    
+
     header.cover {
         margin-bottom: 11px;
         margin-top:-20px;
         text-align:center;
     }
-    
+
     .cover h1 {
         font-size:2.6rem;
         font-family:Lato;
         color:#FF6103 ;
         margin-top:6px;
     }
-    
+
     .cover img {
-        float:left;    
+        float:left;
     }
-    
+
     .cta-sub {
         margin-bottom: 20px;
         text-align: center;
         font-size:16px;
     }
-    
+
     #logoTextPart1 {
         font-size: 30px;
         font-family:"Josefin Sans";
@@ -1064,27 +1064,27 @@ code .prettyprint {
         margin-top: 21px;
         margin-left: -145px;
     }
-    
+
     .menuHamburger {
         display:block;
         float: right;
         margin: -9px 0 0 5px;
         list-style: none;
     }
-    
+
     .cover .menuHamburger {
-        margin:22px 0px 0px 5px;    
+        margin:22px 0px 0px 5px;
     }
-    
+
     .ion-navicon-round:before {
         font-size:2.5rem;
     }
-    
-    
+
+
     .content nav {
         /*margin-top:0px;    */
     }
-    
+
     .d-dropdown {
         display: none;
         overflow: hidden;
@@ -1098,75 +1098,75 @@ code .prettyprint {
         box-shadow: 0 2px 6px rgba(0,0,0,0.15);
         opacity: .99;
     }
-    
+
     .content .d-dropdown {
-       margin-top:-45px;     
+       margin-top:-45px;
     }
-    
+
     .d-dropdown ul {
         margin: 0;
         list-style: none;
         text-align:left;
     }
-    
+
     .d-dropdown a {
-       color:#727983; 
+       color:#727983;
         font-size: 12px;
     }
-    
+
     .d-dropdown a:hover {
        color: #FF6103 ;
     }
-    
+
     .d-dropdown .ion-social-rss-outline {
         margin-right: 5px;
     }
-    
+
     .d-dropdown .ion-ios-chatbubble-outline {
         margin-right: 3px;
     }
-    
+
     .d-dropdown .ion-ios-people-outline {
         margin-right: 3px;
     }
-    
+
     .d-dropdown .ion-ios-chatbubble-outline {
         margin-right: 3px;
     }
-    
+
     .d-dropdown .ion-social-twitter-outline {
         margin-right: 3px;
     }
-    
+
     .d-dropdown .ion-social-github-outline {
         margin-right: 3px;
     }
-    
+
     .d-dropdown .ion-social-googleplus-outline {
         margin-right: 3px;
     }
-    
+
     footer.main nav#nav a {
-        margin-right: 20px;    
+        margin-right: 20px;
     }
-    
+
     footer.main nav#nav {
-        margin-left:40px;    
+        margin-left:40px;
     }
-    
+
     .container > .row {
-        margin-bottom: 10px;    
+        margin-bottom: 10px;
     }
-    
+
     footer.main {
-        margin-top:10px;    
+        margin-top:10px;
     }
-    
+
     .pagination {
         border-bottom: 1px solid #ecf0f6;
-        padding-bottom: 30px; 
+        padding-bottom: 30px;
     }
-    
+
     p .twitterFollowBtn {
         display:inline-block;
         padding-left: 7px;
@@ -1175,7 +1175,7 @@ code .prettyprint {
         padding-bottom: 0;
         margin-top:5px;
     }
-    
+
 
 }
 
@@ -1183,19 +1183,19 @@ code .prettyprint {
 /**media alignment for upto 700px**/
 
 @media only screen and (max-width: 700px) {
-    
+
     footer.main .attribution {
         display:none;
     }
-    
+
     .row {
-        margin-left:0;    
+        margin-left:0;
     }
-    
+
     .main-pane {
-        width:95%;    
+        width:95%;
     }
-    
+
     .mobileAttribution {
         display:block;
         text-align: center;
@@ -1204,11 +1204,11 @@ code .prettyprint {
         color: #FF9955;
         margin-bottom:50px;
     }
-    
+
     footer.main .expand-wrapper .expand {
-        margin-left:11px;    
+        margin-left:11px;
     }
-    
+
 }
 
 /**media alignment for upto 500px**/
@@ -1216,30 +1216,30 @@ code .prettyprint {
 @media only screen and (max-width: 500px) {
 
     .row {
-        margin-left:0;    
+        margin-left:0;
     }
-    
+
     footer.main nav#nav {
-       margin-left: 20px;     
+       margin-left: 20px;
     }
-    
+
     footer.main nav#nav a {
-        margin-right:15px;    
+        margin-right:15px;
     }
-    
+
     .cta-sub {
-        font-size:13px;    
+        font-size:13px;
     }
-    
+
     .cta-sub .author-location, .cta-sub .author-link, .cta-sub .author-stats {
-        font-size:13px;    
+        font-size:13px;
     }
-    
+
     #logoTextPart1 {
-        margin-left:-113px;    
+        margin-left:-113px;
     }
-    
-    
+
+
 }
 
 

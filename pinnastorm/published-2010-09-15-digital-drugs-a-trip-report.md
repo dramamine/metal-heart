@@ -2,7 +2,7 @@
 By Martin Silbiger
 Wednesday September 15, 2010
 
-http://www.youtube.com/watch?v=1pm8Kj988ew
+![](/content/images/3f1e0c4c8d.png)
 
 Maybe you’ve heard of a new trend out there called [i-Dosing](http://i-doser.com/storev3/)?  Awhile ago, a school district in Oklahoma wrote a letter to parents to give them one more thing to worry about – their kids “getting high on mp3s”.  The story quickly [went viral](http://www.wired.com/threatlevel/2010/07/digital-drugs/).  Now, stupid kids in the suburbs, barring access to real drugs, try to get high in legal ways – snorting nutmeg, huffing, robotripping, whatever.  Why not get some drugs that you can store on your iPod?
 
