@@ -11,6 +11,30 @@ Besides the `blog` directory, most of these folders contain Markdown copies of m
 
 Small things you might be interested in:
 
+## Reasons Ghost Sucks, or Ways I'm Doing It Wrong
+**ASSETS**. Ghost has two places you can place static content:
+- `/content/images/`: if you upload via a zip file and include an 'images' folder, yr images end up here. Serve from /content/images.
+- `/content/themes/{themename}/assets/(css|js|img|whatever)`: you can serve these files with the HTML syntax `src="{{asset "css/style.css"}}"`. Maybe this is meant strictly for theme resources...
+- I added a third thing, a `static` folder served via magic.
+
+Breaking out theme files seems fine, but I ran into trouble when I wanted to upload a custom JS file. I wanted to use the static asset directory feature, but then I was putting my JS into the theme's folder.
+
+`content` would be nice as the source of static content, but it also includes folders like `data` that absolutely shouldn't be served like that...
+
+Unfortunately, Ghost recommends nginx configuration to hanlde static files:
+https://allaboutghost.com/serving-static-files-alongside-ghost/
+
+I'd like to handle this stuff consistently, but I'm still puzzling on what to do.
+
+**REQUEST ENTITY TOO LARGE**: I can import some files (guides for Serious Sam & Dreamcast Demos) that are too large to be edited and saved through the Ghost frontend!
+
+## Shortcuts taken:
+- assets all over the place; some things in git, some not
+- images are poorly organized; in retrospect, folders by tag would've been better
+- bad build scripts. this is actually a longcut since my client/server are never in sync. server makefile pulls new files and restarts the server, but so many tasks need to be automated, like updating ghost versions, syncing static assets and (maybe) installing local edits to the server
+- weird git structure. `blog` should be a submodule...or maybe this whole thing should be a fork of `ghost`...this would make updates clearer and less prone to breakage
+- this theme kinda sucks and part of me knows I should write my own theme from scratch and really learn CSS architecture
+
 # ghost-export Modifications
 blog/ghost-export/
 Run `ghost-export` to see help screen.

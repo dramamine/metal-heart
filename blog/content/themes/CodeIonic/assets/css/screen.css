@@ -178,7 +178,7 @@ mark {
 code, tt {
     padding: 1px 3px;
     font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
-    font-size: 0.85em;
+    font-size: 1.3em;
     white-space: pre-wrap;
     border: #e4e4e4 1px solid;
     background: #FFF5EE;
@@ -205,7 +205,7 @@ pre {
 }
 
 pre code, tt {
-    font-size: inherit;
+    /*font-size: inherit;*/
     white-space: -moz-pre-wrap;
     white-space: pre-wrap;
     background: transparent;

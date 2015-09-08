@@ -1,5 +1,15 @@
 # Setting Up Ghost on DigitalOcean
 
+## What I Really Do
+
+
+# Install local db to remote
+scp content/data/ghost-dev.db root@metal-heart.org:/var/www/blog/content/data/ghost.db
+
+# Sync assets
+rsync -vr content/themes/CodeIonic/assets/ root@metal-heart.org:/var/www/blog/content/themes/CodeIonic/assets/
+
+
 ## Manual Install
 
 https://www.howtoinstallghost.com/how-to-install-ghost-on-ubuntu-server-12-04/
