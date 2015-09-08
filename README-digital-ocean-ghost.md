@@ -27,8 +27,8 @@ server {
     server_name metal-heart.org;
 
     location ~ /static {
-        root /var/www/blog/;
-        expires 24h;
+        root /var/www/;
+        expires 1y;
 
     }
     location / {
@@ -79,4 +79,5 @@ for f in $(git ls-tree -r master --name-only); do
   scp $f root@metal-heart.org:/var/www/blog/$f
 done
 ```
+
 
