@@ -7,11 +7,11 @@
             "title":"Hot yoga (1 hr)"
          },
          {
-            "img":"01-P1050208.jpg",
+            "img":"01-p1050208.jpg",
             "title":"Omelette w/ avocado, mushrooms, peppers & onions, toast"
          },
          {
-            "img":"02-P1050213.jpg",
+            "img":"02-p1050213.jpg",
             "title":"Brussels sprouts + beef patty, cheese, avocado"
          }
       ]
@@ -32,11 +32,11 @@
             "title":"Mixed nuts & peanut M&Ms"
          },
          {
-            "img":"05-P1050218.jpg",
+            "img":"05-p1050218.jpg",
             "title":"Beef patty, cheese, broccoli"
          },
          {
-            "img":"06-P1050219.jpg",
+            "img":"06-p1050219.jpg",
             "title":"Protein shake (milk + whey)"
          }
       ]
@@ -61,11 +61,11 @@
             "title":"Biking (45 min, 8 mi)"
          },
          {
-            "img":"07-P1050229.jpg",
+            "img":"07-p1050229.jpg",
             "title":"Peanut butter toast + chocolate chips"
          },
          {
-            "img":"08-P1050231.jpg",
+            "img":"08-p1050231.jpg",
             "title":"Greek yogurt with bananas, blueberries, rice krispies"
          },
          {
@@ -73,7 +73,7 @@
             "title":"Double patty burger (yep, all I eat is burgers)"
          },
          {
-            "img":"10-P1050233.jpg",
+            "img":"10-p1050233.jpg",
             "title":"Curry popcorn"
          }
       ]
@@ -106,11 +106,11 @@
             "title":"Mixed nuts & peanut M&Ms"
          },
          {
-            "img":"13-P1050241.jpg",
+            "img":"13-p1050241.jpg",
             "title":"Chicken fajitas!"
          },
          {
-            "img":"14-P1050244.jpg",
+            "img":"14-p1050244.jpg",
             "title":"Still hungry!"
          }
       ]
