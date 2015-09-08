@@ -15,6 +15,6 @@ This video showcases their musicianship, yet is also 'artsy' in that Tool-inspir
 I saw AAL open for **THURSDAY** and **UNDEROATH** earlier this year. Everyone left the show talking about AAL because they were so unexpectedly amazing. Anyway, their new album Weightless is one of my favorites of the year, so without further ado, here's the heaviest song:
 ![mlim-cover](/content/images/aal.jpg)
 
-[Animals as Leaders - New Eden](/assets/mp3/07.-New-Eden.mp3)
+[Animals as Leaders - New Eden](/static/mp3/07.-New-Eden.mp3)
 
 Spiral out, y'all.

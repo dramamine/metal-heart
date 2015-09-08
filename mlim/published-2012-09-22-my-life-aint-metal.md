@@ -16,7 +16,7 @@ I listen to some really chill, quiet stuff to help me unwind sometimes. The song
 
 ![mlim-cover](/content/images/htdw-total-loss.jpg "Total Loss")
 
-[How to Dress Well - Cold Nites](/assets/mp3/02-Cold-Nites.mp3)
+[How to Dress Well - Cold Nites](/static/mp3/02-Cold-Nites.mp3)
 
 One, it's important to play some quiet stuff in your life to balance out the heaviness. Not because you need 'balance' or some shit like that. It just gives you a home base, like, "here's what people listen to at average volume." Then you play some metal right afterwards, and it's 10x as loud and heavy. I mean, if you're cranking it to 11 all the time, you can't appreciate that.
 

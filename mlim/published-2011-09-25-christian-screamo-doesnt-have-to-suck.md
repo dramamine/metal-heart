@@ -14,10 +14,10 @@ Sometimes the lyrics can be hard to ignore. It's especially hard with Christian 
 
 ![mlim-cover](/content/images/tstgu-24-winters.jpg "The Spirit That Guides Us - 24 Winters (2002)")
 
-[01 - Hopeful Forever](/assets/mp3/01-hopeful-forever.mp3)
-[02 - Among All Barren Heights **(epic dissonance)**](/assets/mp3/02-Among-all-barren-heights.mp3)
-[03 - Deep and Unanswered **(best song)**](/assets/mp3/03-deep-and-unanswered.mp3)
-[04 - 24 Winters **(instrumental)**](/assets/mp3/04-24-winters.mp3)
+[01 - Hopeful Forever](/static/mp3/01-hopeful-forever.mp3)
+[02 - Among All Barren Heights **(epic dissonance)**](/static/mp3/02-Among-all-barren-heights.mp3)
+[03 - Deep and Unanswered **(best song)**](/static/mp3/03-deep-and-unanswered.mp3)
+[04 - 24 Winters **(instrumental)**](/static/mp3/04-24-winters.mp3)
 
 Seriously, spaz metal bands like **THE #12 LOOKS LIKE YOU** or **FEAR BEFORE** could take a lesson from these guys. They incorporate screaming, spoken word, heavy dissonance, and **MESHUGGAH** syncopations into something resembling your typical verse-chorus pattern. I love it. They're a lot more evil these days, too - they're promoting their newest album "Innocent Blood" as 'hardgazer', which is a pretty fucking stupid genre name. And I say that as someone who has used 'dreamsludge' and 'metalgaze' in all seriousness.
 

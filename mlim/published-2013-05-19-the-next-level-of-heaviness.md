@@ -14,7 +14,7 @@ Anyway. That's not important. What IS important though, is that this is one of t
 
 "Teethed Glory & Injury" is special because it pushes heaviness into unknown territory. They take their style and condense it into much shorter, harsher songs.
 
-[Altar of Plagues - Burnt Year](/assets/mp3/04-burnt-year.mp3)
+[Altar of Plagues - Burnt Year](/static/mp3/04-burnt-year.mp3)
 
 Here's one of my favorites - so bleak, so riffless! Seriously, I sing along to this song's guitar parts, but they're mostly just that one note. It's a goddamn minor 8th, so you better get used to that dissonance, since it's just a warmup for all the shit to come. That note cuts through layers of blastbeats, layers of growling!
 

@@ -4,7 +4,7 @@ date: 03/02/2011
 tags: 
 
 <p style="text-align: left;">Kind of excited about this show on Friday. Listen to this while you read:</p>
-[Monotonix - Body Language](/assets/mp3/03-body-language.mp3)
+[Monotonix - Body Language](/static/mp3/03-body-language.mp3)
 ![mlim](/content/images/monotonix.jpg)
 Monotonix came to Vassar in March '07, and completely wrecked our 'multi-purpose' room or whatever. (I guess they wouldn't even let the band play on an actual stage - good thinking.) It was really fun, but I'll let these pictures speak for themselves:
 

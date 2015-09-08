@@ -50,8 +50,7 @@ blog/content/themes/CodeIonic
 ---
 
 ## Running Live: You're Using PM2 To Run Ghost
-`su - ghost`
-`pm2 restart ghost`
+`su - ghost "pm2 restart ghost"`
 
 ## Running Locally
 - Get up-to-date ghost.db from git please!

@@ -16,7 +16,7 @@ This post is about **EAGLE TWIN**. Their album "The Unkindness of Crows" is an u
 
 ![mlim-cover](/content/images/eagle-twin-cover.jpg)
 
-[Eagle Twin - Crow Hymn](/assets/mp3/05-Crow-Hymn.mp3)
+[Eagle Twin - Crow Hymn](/static/mp3/05-Crow-Hymn.mp3)
 
 Crow Hymn is the apex of the album, IMO. It's immediately accessible, it's got some sweet riffage right at the start...listen to that fuzz!
 

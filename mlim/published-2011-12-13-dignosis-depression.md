@@ -7,7 +7,7 @@ But yeah, one of the reasons why I listen to hardcore and screamo is because met
 But the lyrics are more than just depressing. He is *legitimately depressed*. I could see the sadness in his eyes. Just to prove it, I thought I would [google "symptoms of depression"](http://www.webmd.com/depression/guide/detecting-depression) and cross-reference them with TOUCHE AMORE lyrics. Guess what! There are lyrics that _prove every symptom_. Here; listen to this song while you read:
 
 ![mlim-cover](/content/images/touche-amore.jpg "this album art is like a fucking zoloft commercial.")
-[Touche Amore - The Great Repetition](/assets/mp3/03-the-great-repetition.mp3)
+[Touche Amore - The Great Repetition](/static/mp3/03-the-great-repetition.mp3)
 * irritability, restlessness
 
 > I'll count the hours
