@@ -35,6 +35,16 @@ img[alt=welovedc] {
   height: auto;
 }
 
+p.binaural-block {
+  display: inline-block;
+}
+
+img.binaural-tiny {
+  height: 150px;
+  float: left;
+  padding: 10px;
+}
+
 .flow {
   float: left;
 
