@@ -28,6 +28,17 @@ I'd like to handle this stuff consistently, but I'm still puzzling on what to do
 
 **REQUEST ENTITY TOO LARGE**: I can import some files (guides for Serious Sam & Dreamcast Demos) that are too large to be edited and saved through the Ghost frontend!
 
+## Update Ghost Version
+wget https://ghost.org/zip/ghost-latest.zip
+rm -rf core
+rm index.js
+rm Gruntfile.js
+rm *.json
+unzip ghost-latest.zip
+npm clean
+npm install --production
+
+
 ## Shortcuts taken:
 - assets all over the place; some things in git, some not
 - images are poorly organized; in retrospect, folders by tag would've been better
