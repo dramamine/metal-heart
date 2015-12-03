@@ -723,6 +723,15 @@ h3 {
     color: #FF6103;
 }
 
+.list .item a h3 {
+    color: #292d32;
+}
+
+.list .item a:hover h3 {
+    color: #FF6103;
+}
+
+
 .difficulty.beginner {
     background: #70cd53;
 }
@@ -743,9 +752,7 @@ h3 {
     margin-bottom: 15px;
 }
 
-.list .item .summary .subhead a {
-    color:#8B8378;
-}
+
 
 .list .item .summary .description {
     font-family: Lato;
@@ -1241,31 +1248,6 @@ code .prettyprint {
 
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
