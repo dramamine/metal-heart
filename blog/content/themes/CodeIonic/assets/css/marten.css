@@ -119,8 +119,8 @@ article img[alt=pinnastorm-tiny] {
 }
 
 .flex-panel > img.panel-icon {
-  max-height: 100px;
-  max-width: 100px;
+  max-height: 200px;
+  max-width: 350px;
   margin: 5px;
 }
 

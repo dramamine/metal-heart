@@ -63,6 +63,17 @@ blog/content/themes/CodeIonic
 ## Running Live: You're Using PM2 To Run Ghost
 `su - ghost "pm2 restart ghost"`
 
+If it breaks: 
+```
+su - ghost
+cd /var/www
+pm2 start /var/www/blog/index.js --name ghost
+```
+
+Don't forget permissions:
+`chown ghost content/data/ghost.db`
+
+
 ## Running Locally
 - Get up-to-date ghost.db from git please!
 - If you really need the live site, then `scp root@metal-heart.org:/var/www/blog/content/data/ghost.db content/data/`
