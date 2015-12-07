@@ -65,9 +65,10 @@ blog/content/themes/CodeIonic
 
 If it breaks: 
 ```
+NODE_ENV=production
 su - ghost
-cd /var/www
-pm2 start /var/www/blog/index.js --name ghost
+cd /var/www/blog
+forever start index.js
 ```
 
 Don't forget permissions:
