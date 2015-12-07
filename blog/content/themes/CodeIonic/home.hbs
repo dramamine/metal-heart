@@ -1,0 +1,31 @@
+{{!< default}}
+{{! The tag above means - insert everything in this file into the {body} of the default.hbs template }}
+
+{{! The main content area on the homepage }}
+
+<div class="flex-container">
+  <div class="flex-panel">
+    <h4>MY LIFE IS METAL</h4>
+    <img class="panel-icon" src="http://placekitten.com/g/150/150" />
+    <p>A blog about heavy metal.</p>
+  </div>
+  <div class="flex-panel">
+    <h4>WELOVEDC</h4>
+    <img class="panel-icon" src="http://placekitten.com/g/150/150" />
+    <p>Concert reviews.</p>
+  </div>
+  <div class="flex-panel">
+    <h4>PINNASTORM</h4>
+    <img class="panel-icon" src="http://placekitten.com/g/150/150" />
+    <p>Pop culture criticism.</p>
+  </div>
+  <div class="flex-panel">
+    <h4>GAMING</h4>
+    <img class="panel-icon" src="http://placekitten.com/g/150/150" />
+    <p>I make games and break records.</p>
+  </div>
+</div>
+
+{{! The tag below includes the post loop - partials/loop.hbs }}
+<h4>Recent Posts</h4>
+{{> "loop"}}
