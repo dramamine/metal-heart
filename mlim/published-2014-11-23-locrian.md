@@ -1,4 +1,4 @@
-# Locrian
+# Noise > Metal.
 
 Lately I've been having this feeling, that as I continue on my journey to discover the heaviest metal in existence, that I've been looking in the wrong place.
 

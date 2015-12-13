@@ -1,4 +1,4 @@
-# Menace Ruine
+# Is This Even Metal? – Menace Ruine
 
 Let's get weird.
 

@@ -35,6 +35,18 @@ img[alt=welovedc] {
   height: auto;
 }
 
+img[alt="mlim-tiny alignright"] {
+  float: right;
+  max-width: 150px;
+  max-height: 150px;
+}
+img[alt="mlim-tiny alignleft"] {
+  float: left;
+  max-width: 150px;
+  max-height: 150px;
+}
+
+
 p.binaural-block {
   display: inline-block;
 }
