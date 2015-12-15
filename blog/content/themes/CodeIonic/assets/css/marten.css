@@ -13,6 +13,7 @@
 
 .main-pane {
   padding-left: 0px;
+  max-width: 900px;
 }
 
 .side-nav {
@@ -39,11 +40,13 @@ img[alt="mlim-tiny alignright"] {
   float: right;
   max-width: 150px;
   max-height: 150px;
+  padding: 5px;
 }
 img[alt="mlim-tiny alignleft"] {
   float: left;
   max-width: 150px;
   max-height: 150px;
+  padding: 5px;
 }
 
 
@@ -102,7 +105,6 @@ article img[alt=pinnastorm-tiny] {
   color: #f05898;
 }
 
-
 .tag-pinnastorm-frontpage .content a {
   color: #F36;
 }
@@ -113,6 +115,11 @@ article img[alt=pinnastorm-tiny] {
 .tag-pinnastorm-frontpage .content a:visited {
   color: #f05898;
 }
+
+[class*="-frontpage"] h2 {
+  text-align: center;
+}
+
 
 /* Flex stuff for the main homepage */
 .flex-container {
