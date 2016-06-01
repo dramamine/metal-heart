@@ -73,6 +73,7 @@ forever start index.js
 
 Don't forget permissions:
 `chown ghost content/data/ghost.db`
+`chmod +r content/images/*`
 
 
 ## Running Locally

@@ -5,9 +5,15 @@
 
 # Install local db to remote
 scp content/data/ghost-dev.db root@metal-heart.org:/var/www/blog/content/data/ghost.db
+# Permissions!
+chown ghost ghost.db
+
 
 # Sync assets
 rsync -vr content/themes/CodeIonic/assets/ root@metal-heart.org:/var/www/blog/content/themes/CodeIonic/assets/
+
+# Sync images
+rsync -vr content/images/ root@metal-heart.org:/var/www/blog/content/images/
 
 
 ## Manual Install
@@ -50,6 +56,39 @@ server {
         proxy_pass http://karaoke.metal-heart.org:2266;
     }
 }
+
+server {
+    listen 80;
+    server_name helpimstoned.com giffing.metal-heart.org;
+    location / {
+        root /var/www/giffing/dist/public/;
+        index index.html;
+    }
+}
+server {
+    listen 80;
+    server_name g2.metal-heart.org;
+    location / {
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection 'upgrade';
+        proxy_set_header Host $host;
+        proxy_http_version 1.1;
+        proxy_cache_bypass $http_upgrade;
+        proxy_pass http://localhost:9000;
+    }
+}
+
+
+
+
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection 'upgrade';
+        proxy_set_header Host $host;
+        proxy_http_version 1.1;
+        proxy_cache_bypass $http_upgrade;
+        proxy_pass http://127.0.0.1:9000;
+
+
 ```
 
 
@@ -81,3 +120,10 @@ done
 ```
 
 
+## Other Stuff Running On Your Webserver
+
+### Giffing
+```
+$ /var/www/giffing 
+ # forever run server/app.js
+```
