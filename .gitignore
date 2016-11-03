@@ -10,6 +10,7 @@ Gemfile
 .gems
 Rakefile
 config.ru
+private/
 pinnastorm/images/
 README-digital-ocean-ghost.md
 bower_components/
